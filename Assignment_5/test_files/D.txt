@@ -1,0 +1,4228 @@
+2019-20ISBN 81-7450-524-5
+First Edition
+February 2006
+ALL RIGHTS RESERVED
+Phalguna 1927
+Reprinted
+October 2006 Kartika 1928
+October 2007 Kartika 1929
+January 2009 Pausa 1930
+January 2010 Magha 1931
+January 2011 Pausa 1932
+February 2012 Phalguna 1933
+November 2012 Kartika 1934
+November 2013 Kartika 1935
+December 2014 Pausa 1936
+December 2015 Agrahayana 1937
+October 2016 Kartika 1938
+December 2017 Agrahayana 1939
+December 2018 Agrahayana 1940
+qNo part of this publication may be reproduced, stored in a retrieval system
+or transmitted, in any form or by any means, electronic, mechanical,
+photocopying, recording or otherwise without the prior permission of the
+publisher.
+qThis book is sold subject to the condition that it shall not, by way of trade,
+be lent, re-sold, hired out or otherwise disposed of without the publisher’s
+consent, in any form of binding or cover other than that in which it is
+published.
+qThe correct price of this publication is the price printed on this page, Any
+revised price indicated by a rubber stamp or by a sticker or by any other means
+is incorrect and should be unacceptable.
+OFFICES OF THE PUBLICATION
+DIVISION, NCERT
+PD 450T BS
+© National Council of Educational
+Research and Training, 2006
+NCERT Campus
+Sri Aurobindo Marg
+New Delhi 110 016Phone : 011-26562708
+108, 100 Feet Road
+Hosdakere Halli Extension
+Banashankari III Stage
+Bengaluru 560 085Phone : 080-26725740
+Navjivan Trust Building
+P.O. Navjivan
+Ahmedabad 380 014Phone : 079-27541446
+CWC Campus
+Opp. Dhankal Bus Stop
+Panihati
+Kolkata 700 114Phone : 033-25530454
+CWC Complex
+Maligaon
+Guwahati 781 021Phone : 0361-2674869
+Publication Team
+Head, Publication
+` ??.??
+: M. Siraj Anwar
+Division
+Chief Editor: Shveta Uppal
+Chief Business: Gautam Ganguly
+Manager
+Chief Production
+: Arun Chitkara
+Officer (In-charge)
+Printed on 80 GSM paper with NCERT
+watermark
+Editor
+Published at the Publication Division by
+the Secretary, National Council of
+Educational Research and Training,
+Sri Aurobindo Marg, New Delhi
+110016 and printed at Royal Offset
+Printers, A-89/1, Naraina Industrial
+Area, Phase-I, New Delhi-110028
+: Vijayam
+Sankaranarayanan
+Assistant Production : A. M. Vinod Kumar
+Officer
+2019-20
+Illustrations
+Rajeev Kumar
+Cover and Layout
+Shweta RaoForeword
+THE National Curriculum Framework (NCF), 2005, recommends that
+children's life at school must be linked to their life outside the school.
+This principle marks a departure from the legacy of bookish learning
+which continues to shape our system and causes a gap between
+the school, home and community. The syllabi and textbooks
+developed on the basis of NCF signify an attempt to implement this
+basic idea. They also attempt to discourage rote learning and the
+maintenance of sharp boundaries between different subject areas.
+We hope these measures will take us significantly further in the
+direction of a child-centred system of education outlined in the
+National Policy of Education (1986).
+The success of this effort depends on the steps that school
+principals and teachers will take to encourage children to reflect on
+their own learning and to pursue imaginative activities and questions.
+We must recognise that, given space, time and freedom, children
+generate new knowledge by engaging with the information passed on
+to them by adults. Treating the prescribed textbook as the sole basis
+of examination is one of the key reasons why other resources and
+sites of learning are ignored. Inculcating creativity and initiative is
+possible if we perceive and treat children as participants in learning,
+not as receivers of a fixed body of knowledge.
+These aims imply considerable change in school routines and
+mode of functioning. Flexibility in the daily time-table is as necessary
+as rigour in implementing the annual calendar so that the required
+number of teaching days are actually devoted to teaching. The
+methods used for teaching and evaluation will also determine how
+effective this textbook proves for making children’s life at school a
+happy experience, rather than a source of stress or boredom.
+Syllabus designers have tried to address the problem of curricular
+burden by restructuring and reorienting knowledge at different
+stages with greater consideration for child psychology and the time
+available for teaching. The textbook attempts to enhance this
+endeavour by giving higher priority and space to opportunities for
+contemplation and wondering, discussion in small groups, and
+activities requiring hands-on experience.
+2019-20iv
+The National Council of Educational Research and Training
+(NCERT) appreciates the hard work done by the textbook
+development committee responsible for this book. We wish to
+thank the Chairperson of the advisory group in languages,
+Professor Namwar Singh and the Chief Advisor for this book,
+Professor R. Amritavalli for guiding the work of this committee.
+Several teachers contributed to the development of this textbook;
+we are grateful to their principals for making this possible. We
+are indebted to the institutions and organisations which have
+generously permitted us to draw upon their resources, materials
+and personnel. We are especially grateful to the members of the
+National Monitoring Committee, appointed by the Department of
+Secondary and Higher Education, Ministry of Human Resource
+Development under the Chairpersonship of Professor Mrinal Miri
+and Professor G.P. Deshpande for their valuable time and
+contribution. As an organisation committed to systemic reform
+and continuous improvement in the quality of its products,
+NCERT welcomes comments and suggestions which will enable
+us to undertake further revision and refinements.
+New Delhi
+20 December 2005
+Director
+National Council of Educational
+Research and Training
+2019-20About the Book
+THIS textbook for Class XI is based on the English syllabus on the
+lines suggested by the National Curriculum Framework, 2005.
+It aims to help learners develop proficiency in English by
+using language as an instrument for abstract thought and
+knowledge acquisition.
+In the Reading Skills section, the texts have been chosen to
+mirror the kind of serious reading in real life that a school-leaver
+should be capable of. The prose pieces are drawn from biographies,
+travelogues, science fiction, art and contemporary expository prose
+by writers from different parts of the world. Samples from journalistic
+writing have also been included. The play, placed centrally in the
+textbook, is on a theme that learners will particularly identify with
+and is in a lighter vein. The poems relate to universal sentiments
+and appeal to contemporary sensibilities.
+Learners at this stage bring along with them a rich resource of
+world-view, knowledge and cognitive strategies. Teachers should
+encourage them to make educated guesses at what they read and
+help them initially to make sense of the language of the text and
+subsequently become autonomous readers. The Notes after every
+Unit help the teacher and learners with strategies for dealing with
+the particular piece.
+The activities suggested draw upon the learners’ multilingual
+experiences and capacities. Comprehension is addressed at two
+levels: one of the text itself and the other of how the text relates to
+the learners’ experience. The vocabulary exercises will sensitise
+learners to make informed choices of words, while the points of
+grammar highlighted will help them notice the use of forms. The
+‘Things to Do’ section at the end of every unit invites learners to
+look for other sources of information that will help them deal with
+learning tasks across the curriculum.
+The section on Writing Skills prepares them for the kind of
+independent writing that a school-leaver will need to engage in for
+academic as well as real-life purposes. Help has been provided in a
+step-by-step manner to lead the learners on to make notes,
+summarise, draft letters and write short essays, paying attention to
+the form, content and the process of writing.
+2019-202019-20Textbook Development
+Committee
+CHAIRPERSON, ADVISORY GROUP FOR TEXTBOOKS IN LANGUAGES
+Professor Namwar Singh, formerly Chairman, School of Languages,
+Jawaharlal Nehru University, New Delhi
+CHIEF ADVISOR
+R. Amritavalli, Professor, English and Foreign Languages University
+(EFLU), Hyderabad
+CHIEF COORDINATOR
+Ram Janma Sharma, Former Professor and Head, Department of
+Education in Languages, NCERT, New Delhi
+MEMBERS
+Indu Khetarpal, Principal, Salwan Public School, Gurgaon
+Malathy Krishnan, Reader, EFLU, Hyderabad
+Nasiruddin Khan, Reader (Retd.), NCERT, New Delhi
+Rashmi Mishra, PGT (English), Jawahar Navodaya Vidyalaya,
+P.O. Kalamati, Sambalpur
+MEMBER – COORDINATOR
+Meenakshi Khar, Assistant Professor of English, Department of
+Education in Languages, NCERT, New Delhi
+2019-20Acknowledgements
+THE National Council of Educational Research and Training is grateful
+to Professor M.L. Tickoo, formerly of the Central Institute of English
+and Foreign Languages, Hyderabad, and the Regional Language
+Centre, Singapore; Geetha Kumar, PGT, The Mothers’ International
+School; and Vandana Singh, Consultant Editor for going through the
+manuscript and making valuable suggestions.
+For permission to reproduce copyright material in this book
+NCERT would like to thank the following: Pergamon Press (Aust) for
+‘A Photograph’ by Shirley Toulson and ‘Father to Son’ by Elizabeth
+Jennings; Oxford University Press for ‘We’re Not Afraid to Die... if
+We Can Be Together’ by Gordon Cook and Alan East; National
+Geographic Society for ‘Discovering Tut: the Saga Continues’ by
+A.R. Williams and ‘Green Sahara’ by Joel Achenbach; Oxford
+University Press for ‘The Laburnum Top’ by Ted Hughes and
+‘Childhood’ by Markus Natten; The India International Society for
+‘Landscape of the Soul’ by Nathalie Trouveroy; New York University
+Press for ‘The Voice of the Rain’ by Walt Whitman; Bhartiya Vidya
+Bhavan for ‘The Ailing Planet’ by Nani Palkhivala; The Gale Group
+Inc. for ‘The Browning Version’ by Terence Rattigan; Publishers
+Witness Books for ‘The Adventure’ by Jayant Narlikar; John Murray
+for ‘Silk Road’ by Nick Middleton; Editor-in-Chief, The Hindu for
+‘A New Deal for Old Cities’ by G.Ananthakrishnan; HT Media Ltd for
+‘Getting Inside Outsider Art’ by Brinda Suri.
+The National Council of Educational Research and Training,
+New Delhi, acknowledges the services of Sunanda Khanna,
+Copy Editor; Surender K. Vats, Proof Reader; Mohammad Harun and
+Uttam Kumar, DTP Operators; and Parash Ram Kaushik, Incharge,
+Computer Station. The efforts of the Publication Department, NCERT
+are also highly appreciated.
+2019-20Contents
+FOREWORDiii
+ABOUT THE BOOKv
+READING SKILLS1– 86
+1.
+2.
+3.
+4.
+5.
+The Portrait of a Lady
+KHUSHWANT SINGH3
+A Photograph
+SHIRLEY TOULSON11
+We’re Not Afraid to Die...
+if We Can All Be Together
+GORDON COOK and ALAN EAST13
+Discovering Tut: the
+Saga Continues
+A.R. WILLIAMS22
+The Laburnum Top
+TED HUGHES31
+Landscape of the Soul
+NATHALIE TROUVEROY34
+The Voice of the Rain
+WALT WHITMAN41
+The Ailing Planet: the
+Green Movement’s Role
+NANI PALKHIVALA
+2019-20
+43x
+6.
+The Browning Version
+TERENCE RATTIGAN50
+Childhood
+MARKUS NATTEN58
+7.The Adventure
+JAYANT NARLIKAR60
+8.Silk Road
+NICK MIDDLETON74
+Father to Son
+ELIZABETH JENNINGS85
+WRITING SKILLS
+87 – 118
+1.Note-making89
+2.Summarising94
+3.Sub-titling99
+4.Essay-writing102
+5.Letter-writing107
+6.Creative Writing116
+2019-20The Portrait of a Lady
+A Photograph
+“We’re Not Afraid to Die... if We
+Can All Be Together”
+Discovering Tut: the Saga Continues
+The Laburnum Top
+Landscape of the Soul
+The Voice of the Rain
+The Ailing Planet: the Green
+Movement’s Role
+The Browning Version
+Childhood
+The Adventure
+Silk Road
+Father to Son
+2019-202
+HORNBILL
+Effective reading is receiving from others
+their ideas and feelings.
+Effective reading involves
+³understanding the text
+³talking about the text
+³thinking about language
+³working with words
+³noticing form and patterns.
+2019-20T HE POR TRAIT OF A L ADY
+3
+1. The Portrait of a Lady
+Khushwant Singh
+Notice these expressions in the text.
+Infer their meaning from the context.
+the thought was almost revolting
+a veritable bedlam of chirrupings
+frivolous rebukes
+³ an expanse of pure white serenity
+³ the sagging skins of the dilapidated
+³ a turning-point
+drum
+³ accepted her seclusion with
+resignation
+³
+³
+³
+MY grandmother, like everybody’s grandmother, was an old
+woman. She had been old and wrinkled for the twenty years
+that I had known her. People said that she had once been
+young and pretty and had even had a husband, but that was
+hard to believe. My grandfather’s portrait hung above the
+mantelpiece in the drawing room. He wore a big turban and
+loose-fitting clothes. His long, white beard covered the best
+part of his chest and he looked at least a hundred years old.
+He did not look the sort of person who would have a wife or
+children. He looked as if he could only have lots and lots of
+grandchildren. As for my grandmother being young and pretty,
+the thought was almost revolting. She often told us of the
+games she used to play as a child. That seemed quite absurd
+and undignified on her part and we treated it like the fables
+of the Prophets she used to tell us.
+She had always been short and fat and slightly bent. Her
+face was a criss-cross of wrinkles running from everywhere to
+everywhere. No, we were certain she had always been as we had
+2019-204
+HORNBILL
+known her. Old, so terribly old that she could not have grown
+older, and had stayed at the same age for twenty years. She
+could never have been pretty; but she was always beautiful.
+She hobbled about the house in spotless white with one hand
+resting on her waist to balance her stoop and the other telling
+the beads of her rosary. Her silver locks were scattered untidily
+over her pale, puckered face, and her lips constantly moved in
+inaudible prayer. Yes, she was beautiful. She was like the winter
+landscape in the mountains, an expanse of pure white serenity
+breathing peace and contentment.
+My grandmother and I were good friends. My parents left me
+with her when they went to live in the city and we were constantly
+together. She used to wake me up in the morning and get me
+ready for school. She said her morning prayer in a monotonous
+sing-song while she bathed and dressed me in the hope that I
+would listen and get to know it by heart; I listened because I
+loved her voice but never bothered to learn it. Then she would
+fetch my wooden slate which she had already washed and
+plastered with yellow chalk, a tiny earthen ink-pot and a red
+pen, tie them all in a bundle and hand it to me. After a breakfast
+of a thick, stale chapatti with a little butter and sugar spread on
+it, we went to school. She carried several stale chapattis with
+her for the village dogs.
+My grandmother always went to school with me because
+the school was attached to the temple. The priest taught us
+the alphabet and the morning prayer. While the children sat in
+rows on either side of the verandah singing the alphabet or the
+prayer in a chorus, my grandmother sat inside reading the
+scriptures. When we had both finished, we would walk back
+together. This time the village dogs would meet us at the temple
+door. They followed us to our home growling and fighting with
+each other for the chapattis we threw to them.
+When my parents were comfortably settled in the city, they
+sent for us. That was a turning-point in our friendship. Although
+we shared the same room, my grandmother no longer came to
+school with me. I used to go to an English school in a motor
+bus. There were no dogs in the streets and she took to feeding
+sparrows in the courtyard of our city house.
+As the years rolled by we saw less of each other. For some
+time she continued to wake me up and get me ready for school.
+When I came back she would ask me what the teacher had
+2019-20T HE PORTRAIT OF A LADY
+5
+taught me. I would tell her English words and little things of
+western science and learning, the law of gravity, Archimedes’
+Principle, the world being round, etc. This made her unhappy.
+She could not help me with my lessons. She did not believe in
+the things they taught at the English school and was distressed
+that there was no teaching about God and the scriptures. One
+day I announced that we were being given music lessons. She
+was very disturbed. To her music had lewd associations. It was
+the monopoly of harlots and beggars and not meant for gentlefolk.
+She said nothing but her silence meant disapproval. She rarely
+talked to me after that.
+When I went up to University, I was given a room of my own.
+The common link of friendship was snapped. My grandmother
+accepted her seclusion with resignation. She rarely left her
+spinning-wheel to talk to anyone. From sunrise to sunset she
+sat by her wheel spinning and reciting prayers. Only in the
+afternoon she relaxed for a while to feed the sparrows. While
+she sat in the verandah breaking the bread into little bits,
+hundreds of little birds collected round her creating a veritable
+bedlam of chirrupings. Some came and perched on her legs,
+others on her shoulders. Some even sat on her head. She smiled
+but never shooed them away. It used to be the happiest half-
+hour of the day for her.
+When I decided to go abroad for further studies, I was sure
+my grandmother would be upset. I would be away for five years,
+and at her age one could never tell. But my grandmother could.
+She was not even sentimental. She came to leave me at the
+railway station but did not talk or show any emotion. Her lips
+moved in prayer, her mind was lost in prayer. Her fingers were
+busy telling the beads of her rosary. Silently she kissed my
+forehead, and when I left I cherished the moist imprint as perhaps
+the last sign of physical contact between us.
+But that was not so. After five years I came back home and
+was met by her at the station. She did not look a day older. She
+still had no time for words, and while she clasped me in her
+arms I could hear her reciting her prayers. Even on the first day
+of my arrival, her happiest moments were with her sparrows
+whom she fed longer and with frivolous rebukes.
+In the evening a change came over her. She did not pray.
+She collected the women of the neighbourhood, got an old drum
+and started to sing. For several hours she thumped the sagging
+2019-206
+HORNBILL
+skins of the dilapidated drum and sang of the home-coming
+of warriors. We had to persuade her to stop to avoid
+overstraining. That was the first time since I had known her
+that she did not pray.
+The next morning she was taken ill. It was a mild fever and
+the doctor told us that it would go. But my grandmother thought
+differently. She told us that her end was near. She said that,
+since only a few hours before the close of the last chapter of her
+life she had omitted to pray, she was not going to waste any
+more time talking to us.
+We protested. But she ignored our protests. She lay peacefully
+in bed praying and telling her beads. Even before we could
+suspect, her lips stopped moving and the rosary fell from her
+lifeless fingers. A peaceful pallor spread on her face and we knew
+that she was dead.
+We lifted her off the bed and, as is customary, laid her on
+the ground and covered her with a red shroud. After a few hours
+of mourning we left her alone to make arrangements for her
+funeral. In the evening we went to her room with a crude stretcher
+to take her to be cremated. The sun was setting and had lit her
+room and verandah with a blaze of golden light. We stopped
+half-way in the courtyard. All over the verandah and in her room
+right up to where she lay dead and stiff wrapped in the red
+shroud, thousands of sparrows sat scattered on the floor. There
+was no chirruping. We felt sorry for the birds and my mother
+fetched some bread for them. She broke it into little crumbs,
+the way my grandmother used to, and threw it to them. The
+sparrows took no notice of the bread. When we carried my
+grandmother’s corpse off, they flew away quietly. Next morning
+the sweeper swept the bread crumbs into the dustbin.
+Understanding the text
+Mention
+1. The three phases of the author’s relationship with his grandmother
+before he left the country to study abroad.
+2. Three reasons why the author’s grandmother was disturbed when
+he started going to the city school.
+2019-20T HE PORTRAIT OF A LADY
+7
+3. Three ways in which the author’s grandmother spent her days
+after he grew up.
+4. The odd way in which the author’s grandmother behaved just
+before she died.
+5. The way in which the sparrows expressed their sorrow when
+the author’s grandmother died.
+Talking about the text
+Talk to your partner about the following.
+1. The author’s grandmother was a religious person. What are the
+different ways in which we come to know this?
+2. Describe the changing relationship between the author and his
+grandmother. Did their feelings for each other change?
+3. Would you agree that the author’s grandmother was a person strong
+in character? If yes, give instances that show this.
+4. Have you known someone like the author’s grandmother? Do you
+feel the same sense of loss with regard to someone whom you have
+loved and lost?
+Thinking about language
+1. Which language do you think the author and his grandmother used
+while talking to each other?
+2. Which language do you use to talk to elderly relatives in your family?
+3. How would you say ‘a dilapidated drum’ in your language?
+4. Can you think of a song or a poem in your language that talks of
+homecoming?
+Working with words
+I.
+Notice the following uses of the word ‘tell’ in the text.
+1. Her fingers were busy telling the beads of her rosary.
+2. I would tell her English words and little things of Western science
+and learning.
+3. At her age one could never tell.
+4. She told us that her end was near.
+2019-208
+HORNBILL
+Given below are four different senses of the word ‘tell’. Match
+the meanings to the uses listed above.
+1. make something known to someone in spoken or written words
+2. count while reciting
+3. be sure
+4. give information to somebody
+II. Notice the different senses of the word ‘take’.
+1. to take to something: to begin to do something as a habit
+2. to take ill: to suddenly become ill
+Locate these phrases in the text and notice the way they are
+used.
+III. The word ‘hobble’ means to walk with difficulty because the legs
+and feet are in bad condition.
+Tick the words in the box below that also refer to a manner of walking.
+haggleshufflestrideridewaddle
+wrigglepaddleswaggertrudgeslog
+Noticing form
+Notice the form of the verbs italicised in these sentences.
+1. My grandmother was an old woman. She had been old and wrinkled
+for the twenty years that I had known her. People said that she had
+once been young and pretty and had even had a husband, but that
+was hard to believe.
+2. When we both had finished we would walk back together.
+3. When I came back she would ask me what the teacher had
+taught me.
+4. It was the first time since I had known her that she did not pray.
+5. The sun was setting and had lit her room and verandah with a
+golden light.
+These are examples of the past perfect forms of verbs. When we recount
+things in the distant past we use this form.
+2019-20T HE PORTRAIT OF A LADY
+9
+Things to do
+Talk with your family members about elderly people who you have
+been intimately connected with and who are not there with you now.
+Write a short description of someone you liked a lot.
+Notes
+Understanding the text
+The tasks cover the entire text and help in summarising the various
+phases of the autobiographical account and are based on the facts
+presented.
+lAsk the students to read the text silently, paragraph by paragraph,
+and get a quick oral feedback on what the main points of each are.
+For example: Para1– description of grandmother and grandfather’s
+photograph.
+lAt the end of the unit ask students to answer the comprehension
+questions first orally and then in writing in point form.
+For example, when he went to the:
+– village school
+– city school
+– university
+Talking about the text
+Peer interaction about the text is necessary before students engage in
+writing tasks. The questions raised in this section elicit subjective
+responses to the facts in the text and also open up possibilities for relating
+the events to the reader’s own life and establish the universality of the
+kind of relationship and feelings described in the text.
+Thinking about language
+The questions here try to:
+lmake the reader visualise the language that must have been used
+by the author and his grandmother
+lthink about their own home language
+2019-2010
+HORNBILL
+lfind equivalents in their language for English phrases
+lrelate to songs with emotional import in their own language.
+Working with words
+Highlight different uses of common words like ‘tell’ and ‘take’; words
+used for different ways of walking; and semantically-related word
+groups. You could add to the items by using the dictionary for
+vocabulary enrichment.
+Noticing form
+Make students notice the use of the past perfect form of the verb that
+frequently appear in the text to recount the remote past. You could
+practise the form with other examples.
+Things to do
+Relating the topic of the text to the reader’s real-life experience; writing
+about a person who one holds dear.
+2019-20T HE PORTRAIT OF A LADY
+11
+A Photograph
+Shirley Toulson
+The cardboard shows me how it was
+When the two girl cousins went paddling,
+Each one holding one of my mother’s hands,
+And she the big girl — some twelve years or so.
+All three stood still to smile through their hair
+At the uncle with the camera. A sweet face,
+My mother’s, that was before I was born.
+And the sea, which appears to have changed less,
+Washed their terribly transient feet.
+Some twenty — thirty — years later
+She’d laugh at the snapshot. “See Betty
+And Dolly,” she’d say, “and look how they
+Dressed us for the beach.” The sea holiday
+Was her past, mine is her laughter. Both wry
+With the laboured ease of loss.
+Now she’s been dead nearly as many years
+As that girl lived. And of this circumstance
+There is nothing to say at all.
+Its silence silences.
+Infer the meanings of the following words from the context.
+paddling
+transient
+Now look up the dictionary to see if your inference is right.
+2019-2012
+HORNBILL
+Think it out
+1. What does the word ‘cardboard’ denote in the poem? Why has
+this word been used?
+2. What has the camera captured?
+3. What has not changed over the years? Does this suggest
+something to you?
+4. The poet’s mother laughed at the snapshot. What did this laugh
+indicate?
+5. What is the meaning of the line “Both wry with the laboured ease of
+loss.”
+6. What does “this circumstance” refer to?
+7. The three stanzas depict three different phases. What are they?
+Notes
+Poems are included to heighten students’ sensitivity to literary
+writing and to appreciate rhythm and sound patterns in language.
+Follow these steps:
+lRead the poem aloud once without the students looking at the
+poem. Ask them a few general questions.
+lRe-read the poem with the students looking at the poem. Ask a
+few more questions to check comprehension.
+lAsk students to read the poem silently and answer the questions
+given, first orally and then in writing.
+lThe poem ‘A Photograph’ is placed after ‘The Portrait of a Lady’
+because of the thematic relation between the two.
+lThe questions seek to examine factual and inferential
+comprehension, establish empathy and draw attention to the
+structure of the poem and choice of words.
+2019-20WE’RE NOT AFRAID TO DIE ...
+13
+2. “We’re Not Afraid to Die...
+if We Can All Be Together”
+Gordon Cook and Alan East
+Notice these expressions in the text.
+Infer their meaning from the context.
+³honing our seafaring skills³pinpricks in the vast ocean
+³ominous silence³a tousled head
+³Mayday calls
+IN July 1976, my wife Mary, son Jonathan, 6, daughter Suzanne,
+7, and I set sail from Plymouth, England, to duplicate the round-
+the-world voyage made 200 years earlier by Captain James Cook.
+For the longest time, Mary and I — a 37-year-old businessman —
+had dreamt of sailing in the wake of the famous explorer, and
+for the past 16 years we had spent all our leisure time honing
+our seafaring skills in British waters.
+Our boat Wavewalker, a 23 metre, 30 ton wooden-hulled
+beauty, had been professionally built, and we had spent months
+fitting it out and testing it in the roughest weather we could find.
+The first leg of our planned three-year, 105,000 kilometre
+journey passed pleasantly as we sailed down the west coast of
+Africa to Cape Town. There, before heading east, we took on two
+crewmen — American Larry Vigil and Swiss Herb Seigler — to
+help us tackle one of the world’s roughest seas, the southern
+Indian Ocean.
+2019-2014
+HORNBILL
+On our second day out of Cape Town, we began to encounter
+strong gales. For the next few weeks, they blew continuously.
+Gales did not worry me; but the size of the waves was alarming —
+up to 15 metres, as high as our main mast.
+December 25 found us 3,500 kilometres east of Cape Town.
+Despite atrocious weather, we had a wonderful holiday complete
+with a Christmas tree. New Year’s Day saw no improvement in
+the weather, but we reasoned that it had to change soon. And it
+did change — for the worse.
+At dawn on January 2, the waves were gigantic. We were
+sailing with only a small storm jib and were still making eight
+knots. As the ship rose to the top of each wave we could see
+endless enormous seas rolling towards us, and the screaming
+of the wind and spray was painful to the ears. To slow the boat
+down, we dropped the storm jib and lashed a heavy mooring
+rope in a loop across the stern. Then we double-lashed
+everything, went through our life-raft drill, attached lifelines,
+donned oilskins and life jackets — and waited.
+The first indication of impending disaster came at about
+6 p.m., with an ominous silence. The wind dropped, and the
+sky immediately grew dark. Then came a growing roar, and an
+enormous cloud towered aft of the ship. With horror, I realised
+that it was not a cloud, but a wave like no other I had ever seen.
+It appeared perfectly vertical and almost twice the height of the
+other waves, with a frightful breaking crest.
+The roar increased to a thunder as the stern moved up the
+face of the wave, and for a moment I thought we might ride over
+it. But then a tremendous explosion shook the deck. A torrent
+of green and white water broke over the ship, my head smashed
+into the wheel and I was aware of flying overboard and sinking
+below the waves. I accepted my approaching death, and as I
+was losing consciousness, I felt quite peaceful.
+Unexpectedly, my head popped out of the water. A few metres
+away, Wavewalker was near capsizing, her masts almost
+horizontal. Then a wave hurled her upright, my lifeline jerked
+taut, I grabbed the guard rails and sailed through the air into
+Wavewalker’s main boom. Subsequent waves tossed me around
+the deck like a rag doll. My left ribs cracked; my mouth filled
+with blood and broken teeth. Somehow, I found the wheel, lined
+up the stern for the next wave and hung on.
+Water, Water, Everywhere. I could feel that the ship had water
+below, but I dared not abandon the wheel to investigate. Suddenly,
+2019-20WE’RE NOT AFRAID TO DIE ...
+15
+the front hatch was thrown open and Mary appeared. “We’re sinking!”
+she screamed. “The decks are smashed; we’re full of water.”
+“Take the wheel”, I shouted as I scrambled for the hatch.
+Larry and Herb were pumping like madmen. Broken timbers
+hung at crazy angles, the whole starboard side bulged inwards;
+clothes, crockery, charts, tins and toys sloshed about in deep water.
+I half-swam, half-crawled into the children’s cabin. “Are you
+all right?” I asked. “Yes,” they answered from an upper bunk.
+“But my head hurts a bit,” said Sue, pointing to a big bump
+above her eyes. I had no time to worry about bumped heads.
+After finding a hammer, screws and canvas, I struggled back
+on deck. With the starboard side bashed open, we were taking
+water with each wave that broke over us. If I couldn’t make
+some repairs, we would surely sink.
+Somehow I managed to stretch canvas and secure waterproof
+hatch covers across the gaping holes. Some water continued to
+stream below, but most of it was now being deflected over the side.
+More problems arose when our hand pumps started to block
+up with the debris floating around the cabins and the electric
+pump short-circuited. The water level rose threateningly. Back
+on deck I found that our two spare hand pumps had been
+wrenched overboard — along with the forestay sail, the jib, the
+dinghies and the main anchor.
+Then I remembered we had another electric pump under
+the chartroom floor. I connected it to an out-pipe, and was
+thankful to find that it worked.
+The night dragged on with an endless, bitterly cold routine
+of pumping, steering and working the radio. We were getting no
+replies to our Mayday calls — which was not surprising in this
+remote corner of the world.
+Sue’s head had swollen alarmingly; she had two enormous
+black eyes, and now she showed us a deep cut on her arm.
+When I asked why she hadn’t made more of her injuries before
+this, she replied, “I didn’t want to worry you when you were
+trying to save us all.”
+____________
+By morning on January 3, the pumps had the water level
+sufficiently under control for us to take two hours’ rest in
+rotation. But we still had a tremendous leak somewhere below
+the waterline and, on checking, I found that nearly all the boat’s
+2019-2016
+HORNBILL
+main rib frames were smashed down to the keel. In fact, there
+was nothing holding up a whole section of the starboard hull
+except a few cupboard partitions.
+We had survived for 15 hours since the wave hit, but
+Wavewalker wouldn’t hold together long enough for us to reach
+Australia. I checked our charts and calculated that there were
+two small islands a few hundred kilometres to the east. One of
+them, Ile Amsterdam, was a French scientific base. Our only
+hope was to reach these pinpricks in the vast ocean. But unless
+the wind and seas abated so we could hoist sail, our chances
+would be slim indeed. The great wave had put our auxilliary
+engine out of action.
+On January 4, after 36 hours of continuous pumping, we
+reached the last few centimetres of water. Now, we had only to
+keep pace with the water still coming in. We could not set any
+sail on the main mast. Pressure on the rigging would simply
+pull the damaged section of the hull apart, so we hoisted the
+storm jib and headed for where I thought the two islands were.
+Mary found some corned beef and cracker biscuits, and we ate
+our first meal in almost two days.
+But our respite was short-lived. At 4 p.m. black clouds began
+building up behind us; within the hour the wind was back to 40
+knots and the seas were getting higher. The weather continued
+to deteriorate throughout the night, and by dawn on January 5,
+our situation was again desperate.
+When I went in to comfort the children, Jon asked, “Daddy,
+are we going to die?” I tried to assure him that we could make it.
+“But, Daddy,” he went on, “we aren’t afraid of dying if we can all
+be together — you and Mummy, Sue and I.”
+I could find no words with which to respond, but I left the
+children’s cabin determined to fight the sea with everything I
+had. To protect the weakened starboard side, I decided to heave-
+to — with the undamaged port hull facing the oncoming waves,
+using an improvised sea anchor of heavy nylon rope and two 22
+litre plastic barrels of paraffin.
+That evening, Mary and I sat together holding hands, as the
+motion of the ship brought more and more water in through the
+broken planks. We both felt the end was very near.
+But Wavewalker rode out the storm and by the morning of
+January 6, with the wind easing, I tried to get a reading on the
+sextant. Back in the chartroom, I worked on wind speeds,
+2019-20WE’RE NOT AFRAID TO DIE ...
+17
+changes of course, drift and current in an effort to calculate our
+position. The best I could determine was that we were somewhere
+in 150,000 kilometres of ocean looking for a 65 kilometre-wide
+island.
+While I was thinking, Sue, moving painfully, joined me. The
+left side of her head was now very swollen and her blackened
+eyes narrowed to slits. She gave me a card she had made.
+On the front she had drawn caricatures of Mary and me
+with the words: “Here are some funny people. Did they make
+you laugh? I laughed a lot as well.” Inside was a message: “Oh,
+how I love you both. So this card is to say thank you and let’s
+hope for the best.” Somehow we had to make it.
+____________
+I checked and rechecked my calculations. We had lost our main
+compass and I was using a spare which had not been corrected
+for magnetic variation. I made an allowance for this and another
+estimate of the influence of the westerly currents which flow
+through this part of the Indian Ocean.
+About 2 p.m., I went on deck and asked Larry to steer a
+course of 185 degrees. If we were lucky, I told him with a
+conviction I did not feel, he could expect to see the island at
+about 5 p.m.
+Then with a heavy heart, I went below, climbed on my bunk
+and amazingly, dozed off. When I woke it was 6 p.m., and growing
+dark. I knew we must have missed the island, and with the sail
+we had left, we couldn’t hope to beat back into the westerly winds.
+At that moment, a tousled head appeared by my bunk. “Can I
+have a hug?” Jonathan asked. Sue was right behind him.
+“Why am I getting a hug now?” I asked.
+“Because you are the best daddy in the whole world — and
+the best captain,” my son replied.
+“Not today, Jon, I’m afraid.”
+“Why, you must be,” said Sue in a matter-of-fact voice. “You
+found the island.”
+“What!” I shouted.
+“It’s out there in front of us,” they chorused, “as big as a
+battleship.”
+I rushed on deck and gazed with relief at the stark outline of
+Ile Amsterdam. It was only a bleak piece of volcanic rock, with
+little vegetation — the most beautiful island in the world!
+2019-2018
+HORNBILL
+We anchored offshore for the night, and the next morning all
+28 inhabitants of the island cheered as they helped us ashore.
+With land under my feet again, my thoughts were full of
+Larry and Herbie, cheerful and optimistic under the direst stress,
+and of Mary, who stayed at the wheel for all those crucial hours.
+Most of all, I thought of a seven-year-old girl, who did not want
+us to worry about a head injury (which subsequently took six
+minor operations to remove a recurring blood clot between skin
+and skull), and of a six-year-old boy who was not afraid to die.
+Understanding the text
+1. List the steps taken by the captain
+(i) to protect the ship when rough weather began.
+(ii) to check the flooding of the water in the ship.
+2. Describe the mental condition of the voyagers on 4 and 5 January.
+3. Describe the shifts in the narration of the events as indicated in
+the three sections of the text. Give a subtitle to each section.
+Talking about the text
+Discuss the following questions with your partner.
+1. What difference did you notice between the reaction of the adults
+and the children when faced with danger?
+2. How does the story suggest that optimism helps to endure “the
+direst stress”?
+3. What lessons do we learn from such hazardous experiences when
+we are face-to-face with death?
+4. Why do you think people undertake such adventurous expeditions
+in spite of the risks involved?
+Thinking about language
+1. We have come across words like ‘gale’ and ‘storm’ in the account.
+Here are two more words for ‘storm’: typhoon, cyclone. How many
+words does your language have for ‘storm’?
+2019-20WE’RE NOT AFRAID TO DIE ...
+19
+2. Here are the terms for different kinds of vessels: yacht, boat, canoe,
+ship, steamer, schooner. Think of similar terms in your language.
+3. ‘Catamaran’ is a kind of a boat. Do you know which Indian
+language this word is derived from? Check the dictionary.
+4. Have you heard any boatmen’s songs? What kind of emotions
+do these songs usually express?
+Working with words
+1. The following words used in the text as ship terminology are
+also commonly used in another sense. In what contexts would
+you use the other meaning?
+knot
+stern
+boom
+hatch
+anchor
+2. The following three compound words end in -ship. What does
+each of them mean?
+airship
+flagship
+lightship
+3. The following are the meanings listed in the dictionary against
+the phrase ‘take on’. In which meaning is it used in the third
+paragraph of the account:
+take on sth:to begin to have a particular quality or
+appearance; to assume sth
+take sb on:to employ sb; to engage sb
+to accept sb as one’s opponent in a game,
+contest or conflict
+take sb/sth on:
+to decide to do sth; to allow sth/sb to enter
+e.g. a bus, plane or ship; to take sth/sb
+on board
+Things to do
+1. Given on the next page is a picture of a yacht. Label the parts of
+the yacht using the terms given in the box.
+2019-2020
+HORNBILL
+bowcabinruddercockpit
+sternboommainsailmast
+2. Here is some information downloaded from the Internet on Ile
+Amsterdam. You can view images of the isle if you go online.
+LocationSouth Indian Ocean, between
+southernmost parts of Australia and
+South Africa
+Latitude and longitude37 92 S, 77 67 E
+SovereigntyFrance
+Political status notesPart of French Southern and
+Antarctic Lands
+Population35
+Census notesMeteorological station staff
+Land area in square
+kilometres86
+3. Locate Ile Amsterdam on the world map.
+2019-20WE’RE NOT AFRAID TO DIE ...
+21
+Notes
+This is a first person account of an adventurous ordeal that a family
+experiences.
+Understanding the text
+This section deals with factual and global comprehension. Practice is
+given in describing and noticing text organisation.
+Talking about the text
+Peer interaction about subjective responses to the text; empathy with
+and comment on universal experiences; and human behaviour related
+to risk-taking and adventure.
+Thinking about language
+lVariety of terms for a particular item in different languages
+lEnglish words derived from Indian languages
+lLinking language to music (boatmen’s songs)
+Working with words
+l‘Ship’ terms as homonyms.
+lCompound words with ‘-ship’ with different connotations
+lPhrasal verbs
+Things to do
+l
+l
+Honing reference skills by finding facts from the Internet, the
+encyclopedia, and maps
+Exposure to various genres of fact presentation
+2019-2022
+HORNBILL
+3. Discovering Tut: the Saga Continues
+A. R. Williams
+Notice these expressions in the text.
+Infer their meaning from the context.
+forensic reconstruction
+scudded across
+³ casket grey
+³ resurrection
+funerary treasures
+circumvented
+³ computed tomography
+³ eerie detail
+³³
+³³
+He was just a teenager when he
+died. The last heir of a powerful
+family that had ruled Egypt and its
+empire for centuries, he was laid to
+rest laden with gold and eventually
+forgotten. Since the discovery of his
+tomb in 1922, the modern world
+has speculated about what
+happened to him, with murder being
+the most extreme possibility. Now,
+leaving his tomb for the first time
+in almost 80 years, Tut has
+undergone a CT scan that offers
+new clues about his life and death —
+and provides precise data for an
+accurate forensic reconstruction
+of the boyish pharaoh.
+2019-20DISCOVERING TUT: THE SAGA CONTINUES
+23
+AN angry wind stirred up ghostly dust devils as King Tut was taken
+from his resting place in the ancient Egyptian cemetery known as
+the Valley of the Kings*. Dark-bellied clouds had scudded across
+the desert sky all day and now were veiling the stars in casket
+grey. It was 6 p.m. on 5 January 2005. The world’s most famous
+mummy glided head first into a CT scanner brought here to probe
+the lingering medical mysteries of this little understood young ruler
+who died more than 3,300 years ago.
+All afternoon the usual line of tourists from around the world
+had descended into the cramped, rock-cut tomb some 26 feet
+underground to pay their respects. They gazed at the murals on the
+walls of the burial chamber and peered at Tut’s gilded face, the most
+striking feature of his mummy-shaped outer coffin lid. Some visitors
+read from guidebooks in a whisper. Others stood silently, perhaps
+pondering Tut’s untimely death in his late teens, or wondering with
+a shiver if the pharaoh’s curse — death or misfortune falling upon
+those who disturbed him — was really true.
+“The mummy is in very bad condition because of what Carter
+did in the 1920s,” said Zahi Hawass, Secretary General of Egypt’s
+Supreme Council of Antiquities, as he leaned over the body for a
+long first look. Carter— Howard Carter, that is — was the British
+archaeologist who in 1922 discovered Tut’s tomb after years of
+futile searching. Its contents, though hastily ransacked in antiquity,
+were surprisingly complete. They remain the richest royal collection
+ever found and have become part of the pharaoh’s legend. Stunning
+artefacts in gold, their eternal brilliance meant to guarantee
+resurrection, caused a sensation at the time of the discovery —
+and still get the most attention. But Tut was also buried with
+everyday things he’d want in the afterlife: board games, a bronze
+razor, linen undergarments, cases of food and wine.
+After months of carefully recording the pharaoh’s funerary
+treasures, Carter began investigating his three nested coffins.
+Opening the first, he found a shroud adorned with garlands of
+willow and olive leaves, wild celery, lotus petals, and cornflowers,
+the faded evidence of a burial in March or April. When he finally
+reached the mummy, though, he ran into trouble. The ritual resins
+had hardened, cementing Tut to the bottom of his solid gold coffin.
+“No amount of legitimate force could move them,” Carter wrote
+later. “What was to be done?”
+The sun can beat down like a hammer this far south in Egypt,
+and Carter tried to use it to loosen the resins. For several hours
+* See map on next page
+2019-2024
+HORNBILL
+EGYPT
+ASIA
+Nil e R i v
+er
+AFRICA
+(map not to scale)
+2019-20DISCOVERING TUT: THE SAGA CONTINUES
+25
+he set the mummy outside in blazing sunshine that heated it to
+149 degrees Fahrenheit. Nothing budged. He reported with
+scientific detachment that “the consolidated material had to be
+chiselled away from beneath the limbs and trunk before it was
+possible to raise the king’s remains.”
+In his defence, Carter really had little choice. If he hadn’t cut
+the mummy free, thieves most certainly would have
+circumvented the guards and ripped it apart to remove the gold.
+In Tut’s time the royals were fabulously wealthy, and they
+thought — or hoped — they could take their riches with them.
+For his journey to the great beyond, King Tut was lavished with
+glittering goods: precious collars, inlaid necklaces and bracelets,
+rings, amulets, a ceremonial apron, sandals, sheaths for his fingers
+and toes, and the now iconic inner coffin and mask — all of pure
+gold. To separate Tut from his adornments, Carter’s men removed
+the mummy’s head and severed nearly every major joint. Once
+they had finished, they reassembled the remains on a layer of
+sand in a wooden box with padding that concealed the damage,
+the bed where Tut now rests.
+Archaeology has changed substantially in the intervening
+decades, focusing less on treasure and more on the fascinating
+details of life and intriguing mysteries of death. It also uses more
+sophisticated tools, including medical technology. In 1968, more
+than 40 years after Carter’s discovery, an anatomy professor
+X-rayed the mummy and revealed a startling fact: beneath the resin
+that cakes his chest, his breast-bone and front ribs are missing.
+Today diagnostic imaging can be done with computed
+tomography, or CT, by which hundreds of X-rays in cross section
+are put together like slices of bread to create a three-dimensional
+virtual body. What more would a CT scan reveal of Tut than the
+X-ray? And could it answer two of the biggest questions still
+lingering about him — how did he die, and how old was he at the
+time of his death?
+King Tut’s demise was a big event, even by royal standards.
+He was the last of his family’s line, and his funeral was the death
+rattle of a dynasty. But the particulars of his passing away and its
+aftermath are unclear.
+Amenhotep III — Tut’s father or grandfather — was a powerful
+pharaoh who ruled for almost four decades at the height of the
+eighteenth dynasty’s golden age. His son Amenhotep IV succeeded
+him and initiated one of the strangest periods in the history of
+2019-2026
+HORNBILL
+ancient Egypt. The new pharaoh promoted the worship of the
+Aten, the sun disk, changed his name to Akhenaten, or ‘servant
+of the Aten,’ and moved the religious capital from the old city of
+Thebes to the new city of Akhetaten, known now as Amarna. He
+further shocked the country by attacking Amun, a major god,
+smashing his images and closing his temples. “It must have been
+a horrific time,” said Ray Johnson, director of the University of
+Chicago’s research centre in Luxor, the site of ancient Thebes.
+“The family that had ruled for centuries was coming to an end,
+and then Akhenaten went a little wacky.”
+After Akhenaten’s death, a mysterious ruler named
+Smenkhkare appeared briefly and exited with hardly a trace.
+And then a very young Tutankhaten took the throne — King
+Tut as he’s widely known today. The boy king soon changed his
+name to Tutankhamun, ‘living image of Amun,’ and oversaw a
+restoration of the old ways. He reigned for about nine years —
+and then died unexpectedly.
+Regardless of his fame and the speculations about his fate, Tut is
+one mummy among many in Egypt. How many? No one knows. The
+Egyptian Mummy Project, which began an inventory in late 2003,
+has recorded almost 600 so far and is still counting. The next phase:
+scanning the mummies with a portable CT machine donated by the
+National Geographic Society and Siemens, its manufacturer. King Tut
+is one of the first mummies to be scanned — in death, as in life, moving
+regally ahead of his countrymen.
+A CT machine scanned the mummy head to toe, creating
+1,700 digital X-ray images in cross section. Tut’s head, scanned
+in 0.62 millimetre slices to register its intricate structures, takes
+on eerie detail in the resulting image. With Tut’s entire body
+similarly recorded, a team of specialists in radiology, forensics,
+and anatomy began to probe the secrets that the winged goddesses
+of a gilded burial shrine protected for so long.
+The night of the scan, workmen carried Tut from the tomb in
+his box. Like pallbearers they climbed a ramp and a flight of
+stairs into the swirling sand outside, then rose on a hydraulic
+lift into the trailer that held the scanner. Twenty minutes later
+two men emerged, sprinted for an office nearby, and returned
+with a pair of white plastic fans. The million-dollar scanner had
+quit because of sand in a cooler fan. “Curse of the pharaoh,”
+joked a guard nervously.
+2019-20DISCOVERING TUT: THE SAGA CONTINUES
+27
+Eventually the substitute fans worked well enough to finish
+the procedure. After checking that no data had been lost, the
+technicians turned Tut over to the workmen, who carried him
+back to his tomb. Less than three hours after he was removed
+from his coffin, the pharaoh again rested in peace where the
+funerary priests had laid him so long ago.
+Back in the trailer a technician pulled up astonishing images
+of Tut on a computer screen. A grey head took shape from a
+scattering of pixels, and the technician spun and tilted it in every
+direction. Neck vertebrae appeared as clearly as in an anatomy
+class. Other images revealed a hand, several views of the rib cage,
+and a transection of the skull. But for now the pressure was off.
+Sitting back in his chair, Zahi Hawass smiled, visibly relieved
+that nothing had gone seriously wrong. “I didn’t sleep last night,
+not for a second,” he said. “I was so worried. But now I think I
+will go and sleep.”
+Mural in King Tut’s tomb showing King
+Tut with Osiris, the god of the afterlife
+2019-2028
+HORNBILL
+By the time we left the trailer, descending metal stairs to the
+sandy ground, the wind had stopped. The winter air lay cold and
+still, like death itself, in this valley of the departed. Just above the
+entrance to Tut’s tomb stood Orion — the constellation that the
+ancient Egyptians knew as the soul of Osiris, the god of the
+afterlife — watching over the boy king.
+(Source: National Geographic, Vol 207, No. 6)
+Understanding the text
+1. Give reasons for the following.
+(i) King Tut’s body has been subjected to repeated scrutiny.
+(ii) Howard Carter’s investigation was resented.
+(iii) Carter had to chisel away the solidified resins to raise the
+king’s remains.
+(iv) Tut’s body was buried along with gilded treasures.
+(v) The boy king changed his name from Tutankhaten to
+Tutankhamun.
+2.
+(i) List the deeds that led Ray Johnson to describe Akhenaten
+as “wacky”.
+(ii) What were the results of the CT scan?
+(iii) List the advances in technology that have improved forensic
+analysis.
+(iv) Explain the statement, “King Tut is one of the first mummies
+to be scanned — in death, as in life ...”
+Talking about the text
+Discuss the following in groups of two pairs, each pair in a group
+taking opposite points of view.
+1. Scientific intervention is necessary to unearth buried mysteries.
+2. Advanced technology gives us conclusive evidence of past events.
+3. Traditions, rituals and funerary practices must be respected.
+4. Knowledge about the past is useful to complete our knowledge
+of the world we live in.
+2019-20DISCOVERING TUT: THE SAGA CONTINUES
+29
+Thinking about language
+1. Read the following piece of information from The Encyclopedia of
+Language by David Crystal.
+Egyptian is now extinct: its history dates from before the third
+millennium B.C., preserved in many hieroglyphic inscriptions
+and papyrus manuscripts. Around the second century A.D.,
+it developed into a language known as Coptic. Coptic may
+still have been used as late as the early nineteenth century
+and is still used as a religious language by Monophysite
+Christians in Egypt.
+2. What do you think are the reasons for the extinction of
+languages?
+3. Do you think it is important to preserve languages?
+4. In what ways do you think we could help prevent the extinction
+of languages and dialects?
+Working with words
+1. Given below are some interesting combinations of words. Explain
+why they have been used together.
+(i) ghostly dust devils
+(vi) dark-bellied clouds
+(ii) desert sky(vii) casket grey
+(iii) stunning artefacts(viii) eternal brilliance
+(iv) funerary treasures(ix) ritual resins
+(v) scientific detachment(x) virtual body
+2. Here are some commonly used medical terms. Find out their
+meanings.
+CT scanMRItomography
+autopsydialysisECG
+post mortemangiographybiopsy
+Things to do
+1. The constellation Orion is associated with the legend of Osiris,
+the god of the afterlife.
+2019-2030
+HORNBILL
+Find out the astronomical descriptions and legends associated
+with the following.
+(i) Ursa Major (Saptarishi mandala)
+(ii) Polaris (Dhruva tara)
+(iii) Pegasus (Winged horse)
+(iv) Sirius (Dog star)
+(v) Gemini (Mithuna)
+2. Some of the leaves and flowers mentioned in the passage for
+adorning the dead are willow, olive, celery, lotus, cornflower. Which
+of these are common in our country?
+3. Name some leaves and flowers that are used as adornments in
+our country.
+Notes
+Understanding the text
+Factual comprehension: giving reasons, listing
+Talking about the text
+Debate on issues raised in the text related to rediscovering history
+with the help of technology; respect for traditions (reflection on issues)
+Thinking about language
+Extinction of language and language preservation
+Working with words
+Understanding adjectival collocations; common medical terms
+Things to do
+lRelating astronomical facts and legends (across the curriculum)
+lFinding out botanical correlates
+2019-20DISCOVERING TUT: THE SAGA CONTINUES
+31
+The Laburnum Top
+Ted Hughes
+The Laburnum top is silent, quite still
+In the afternoon yellow September sunlight,
+A few leaves yellowing, all its seeds fallen.
+Till the goldfinch comes, with a twitching chirrup
+A suddenness, a startlement, at a branch end.
+Then sleek as a lizard, and alert, and abrupt,
+She enters the thickness, and a machine starts up
+Of chitterings, and a tremor of wings, and trillings —
+The whole tree trembles and thrills.
+It is the engine of her family.
+She stokes it full, then flirts out to a branch-end
+Showing her barred face identity mask
+Then with eerie delicate whistle-chirrup whisperings
+She launches away, towards the infinite
+And the laburnum subsides to empty.
+laburnum: a short tree with hanging branches, yellow
+flowers and poisonous seeds
+goldfinch: a small singing bird with yellow feathers on
+its wings
+2019-2032
+HORNBILL
+Find out
+1. What laburnum is called in your language.
+2. Which local bird is like the goldfinch.
+Think it out
+1. What do you notice about the beginning and the ending of the
+poem?
+2. To what is the bird’s movement compared? What is the basis for
+the comparison?
+3. Why is the image of the engine evoked by the poet?
+4. What do you like most about the poem?
+5. What does the phrase “her barred face identity mask” mean?
+Note down
+1. the sound words
+2. the movement words
+3. the dominant colour in the poem.
+List the following
+1. Words which describe ‘sleek’, ‘alert’ and ‘abrupt’.
+2. Words with the sound ‘ch’ as in ‘chart’ and ‘tr’ as in ‘trembles’ in
+the poem.
+3. Other sounds that occur frequently in the poem.
+Thinking about language
+Look for some other poem on a bird or a tree in English or any other
+language.
+Try this out
+Write four lines in verse form on any tree that you see around you.
+2019-20T HE LABURNUM T OP
+33
+Notes
+This poem has been placed after a text which has references to
+names of plants for thematic sequencing.
+Understanding the poem
+lGlossing of ‘laburnum’ and ‘goldfinch’
+lFactual understanding
+lMovement of thought and structuring (poetic sensitivity)
+lFocus on figures of speech and imagery used (poetic sensitivity)
+lAttention to sounds, lexical collocations (poetic sensitivity)
+Thinking about language
+lFinding equivalents in other languages (multilingualism)
+lRelating to thematically similar poems in other languages
+(multilingualism)
+lAttempt at creativity
+2019-2034
+HORNBILL
+4. Landscape of the Soul
+Nathalie Trouveroy
+Notice these expressions in the text.
+Infer their meaning from the context.
+³anecdote³illusionistic likeness
+³delicate realism³conceptual space
+³figurative painting
+A WONDERFUL old tale is told about the painter Wu Daozi, who
+lived in the eighth century. His last painting was a landscape
+commissioned by the Tang Emperor Xuanzong, to decorate a
+palace wall. The master had hidden his work behind a screen, so
+only the Emperor would see it. For a long while, the Emperor
+admired the wonderful scene, discovering forests, high mountains,
+waterfalls, clouds floating in an immense sky, men on hilly paths,
+birds in flight. “Look, Sire”, said the painter, “in this cave, at the
+foot of the mountain, dwells a spirit.” The painter clapped his
+hands, and the entrance to the cave opened. “The inside is splendid,
+beyond anything words can convey. Please let me show Your
+Majesty the way.” The painter entered the cave; but the entrance
+closed behind him, and before the astonished Emperor could move
+or utter a word, the painting had vanished from the wall. Not a
+trace of Wu Daozi’s brush was left — and the artist was never
+seen again in this world.
+Such stories played an important part in China’s classical
+education. The books of Confucius and Zhuangzi are full of them;
+they helped the master to guide his disciple in the right direction.
+Beyond the anecdote, they are deeply revealing of the spirit in
+2019-20LANDSCAPE OF THE SOUL
+35
+which art was considered. Contrast this story — or another famous
+one about a painter who wouldn’t draw the eye of a dragon he
+had painted, for fear it would fly out of the painting — with an old
+story from my native Flanders that I find most representative of
+Western painting.
+In fifteenth century Antwerp, a master blacksmith called
+Quinten Metsys fell in love with a painter’s daughter. The father
+would not accept a son-in-law in such a profession. So Quinten
+sneaked into the painter’s studio and painted a fly on his latest
+panel, with such delicate realism that the master tried to swat
+it away before he realised what had happened. Quinten was
+immediately admitted as an apprentice into his studio. He married
+his beloved and went on to become one of the most famous
+painters of his age. These two stories illustrate what each form
+of art is trying to achieve: a perfect, illusionistic likeness in
+Europe, the essence of inner life and spirit in Asia.
+In the Chinese story, the Emperor commissions a painting
+and appreciates its outer appearance. But the artist reveals to
+him the true meaning of his work. The Emperor may rule over
+the territory he has conquered, but only the artist knows the
+way within. “Let me show the Way”, the ‘Dao’, a word that means
+both the path or the method, and the mysterious works of the
+Universe. The painting is gone, but the artist has reached his goal —
+beyond any material appearance.
+A classical Chinese landscape is not meant to reproduce an
+actual view, as would a Western figurative painting. Whereas
+the European painter wants you to borrow his eyes and look at
+a particular landscape exactly as he saw it, from a specific angle,
+the Chinese painter does not choose a single viewpoint. His
+landscape is not a ‘real’ one, and you can enter it from any point,
+then travel in it; the artist creates a path for your eyes to travel
+up and down, then back again, in a leisurely movement. This is
+even more true in the case of the horizontal scroll, in which the
+action of slowly opening one section of the painting, then rolling
+it up to move on to the other, adds a dimension of time which is
+unknown in any other form of painting. It also requires the active
+participation of the viewer, who decides at what pace he will travel
+through the painting — a participation which is physical as well
+as mental. The Chinese painter does not want you to borrow his
+eyes; he wants you to enter his mind. The landscape is an inner
+one, a spiritual and conceptual space.
+2019-2036
+HORNBILL
+This concept is expressed as shanshui, literally ‘mountain-
+water’ which used together represent the word ‘landscape’. More
+than two elements of an image, these represent two
+complementary poles, reflecting the Daoist view of the universe.
+The mountain is Yang — reaching vertically towards Heaven,
+stable, warm, and dry in the sun, while the water is Yin — horizontal
+and resting on the earth, fluid, moist and cool. The interaction of
+Yin, the receptive, feminine aspect of universal energy, and its
+counterpart Yang, active and masculine, is of course a
+fundamental notion of Daoism. What is often overlooked is an
+essential third element, the Middle Void where their interaction
+takes place. This can be compared with the yogic practice of
+pranayama; breathe in, retain, breathe out — the suspension of
+breath is the Void where meditation occurs. The Middle Void is
+essential — nothing can happen without it; hence the importance
+of the white, unpainted space in Chinese landscape.
+This is also where Man finds a fundamental role. In that space
+between Heaven and Earth, he becomes the conduit of
+communication between both poles of the Universe. His presence
+is essential, even if it’s only suggested; far from being lost or
+oppressed by the lofty peaks, he is, in Francois Cheng’s wonderful
+expression, “the eye of the landscape”.
+[excerpt from ‘Landscape of the Soul:
+Ethics and Spirituality in Chinese
+Painting’, slightly edited]
+Getting Inside ‘Outsider Art’
+When French painter Jean Dubuffet mooted the concept of
+‘art brut’ in the 1940s, the art of the untrained visionary
+was of minority interest. From its almost veiled beginnings,
+‘outsider art’ has gradually become the fastest growing area
+of interest in contemporary art internationally.
+This genre is described as the art of those who have ‘no
+right’ to be artists as they have received no formal training,
+yet show talent and artistic insight. Their works are a
+stimulating contrast to a lot of mainstream offerings.
+Around the time Dubuffet was propounding his
+concept, in India “an untutored genius was creating
+paradise”. Years ago the little patch of jungle that he began
+clearing to make himself a garden sculpted with stone and
+2019-20LANDSCAPE OF THE SOUL
+37
+A Rock Garden sculpture made of broken bangles by Nek Chand
+recycled material is known to the world today as the Rock
+Garden, at Chandigarh.
+Its 80-year-old creator– director, Nek Chand, is now hailed
+as India’s biggest contributor to outsider art. The fiftieth issue
+(Spring 2005) of Raw Vision, a UK-based magazine pioneer
+in outsider art publications, features Nek Chand, and his
+Rock Garden sculpture ‘Women by the Waterfall’ on its
+anniversary issue’s cover.
+The notion of ‘art brut’ or ‘raw art’, was of works that
+were in their raw state as regards cultural and artistic
+influences. Anything and everything from a tin to a sink to a
+broken down car could be material for a work of art,
+something Nek Chand has taken to dizzying heights.
+Recognising his art as “an outstanding testimony of the
+difference a single man can make when he lives his dream”,
+the Swiss Commission for UNESCO will be honouring him
+by way of a European exposition of his works. The five-month
+interactive show, ‘Realm of Nek Chand’, beginning October
+will be held at leading museums in Switzerland, Belgium,
+France and Italy. “The biggest reward is walking through the
+garden and seeing people enjoy my creation,” Nek Chand says.
+BRINDA SURI
+Hindustan Times, 28 August 2005
+2019-2038
+HORNBILL
+Understanding the text
+1.
+2.
+(i)Contrast the Chinese view of art with the European view
+with examples.
+(ii)Explain the concept of shanshui.
+(i)What do you understand by the terms ‘outsider art’ and
+‘art brut’ or ‘raw art’?
+(ii)Who was the “untutored genius who created a paradise”
+and what is the nature of his contribution to art?
+Talking about the text
+Discuss the following statements in groups of four.
+1. “The Emperor may rule over the territory he has conquered, but
+only the artist knows the way within.”
+2. “The landscape is an inner one, a spiritual and conceptual space.”
+Thinking about language
+1. Find out the correlates of Yin and Yang in other cultures.
+2. What is the language spoken in Flanders?
+Working with words
+I.
+The following common words are used in more than one sense.
+panelstudio
+essencematerial
+brush
+Examine the following sets of sentences to find out what the
+words, ‘panel’ and ‘essence’ mean in different contexts.
+1.
+(i)The masks from Bawa village in Mali look like long
+panels of decorated wood.
+(ii)Judge H. Hobart Grooms told the jury panel he had
+heard the reports.
+(iii)The panel is laying the groundwork for an international
+treaty.
+2019-20LANDSCAPE OF THE SOUL
+2.
+39
+(iv)The glass panels of the window were broken.
+(v)Through the many round tables, workshops and panel
+discussions, a consensus was reached.
+(vi)The sink in the hinged panel above the bunk drains
+into the head.
+(i)Their repetitive structure must have taught the people
+around the great composer the essence of music.
+(ii)Part of the answer is in the proposition; but the essence
+is in the meaning.
+(iii)The implications of these schools of thought are of
+practical essence for the teacher.
+(iv)They had added vanilla essence to the pudding.
+II. Now find five sentences each for the rest of the words to show
+the different senses in which each of them is used.
+Noticing form
+lA classical Chinese landscape is not meant to reproduce an actual
+view, as would a Western figurative painting.
+lWhereas the European painter wants you to borrow his eyes and
+look at a particular landscape exactly as he saw it, from a specific
+angle, the Chinese painter does not choose a single viewpoint.
+The above two examples are ways in which contrast may be expressed.
+Combine the following sets of ideas to show the contrast between them.
+1.
+2.
+3.
+(i)European art tries to achieve a perfect, illusionistic likeness.
+(ii)Asian art tries to capture the essence of inner life and spirit.
+(i)The Emperor commissions a painting and appreciates its
+outer appearance.
+(ii)The artist reveals to him the true meaning of his work.
+(i)The Emperor may rule over the territory he has conquered.
+(ii)The artist knows the way within.
+Things to do
+1.Find out about as many Indian schools of painting as you can.
+Write a short note on the distinctive features of each school.
+2.Find out about experiments in recycling that help in
+environmental conservation.
+2019-2040
+HORNBILL
+Notes
+Understanding the text
+Factual and global understanding
+Talking about the text
+Discussing spiritual experiences
+Thinking about language
+lInter-cultural philosophical viewpoints and related terms
+lKnowing about the languages of the world
+Working with words
+Using words according to their function
+Noticing form
+Use of conjunctions to express contrast
+Soaring Interest in Chinese Art
+A painting by an 86-year old Chinese master has gone under
+the hammer for a record 30 million yuan, highlighting soaring
+world interest in Chinese art.
+The work by Wu Guanzhong depicting a cluster of colourful
+parrots sitting on tree branches smashed the previous record
+price for a Chinese ink painting of 23 million yuan for a twelfth
+century masterpiece by the Song Dynasty emperor, Huizong.
+“Wu Guanzhong has successfully melded Chinese and Western
+artistic traditions,” said Ma Zhefei, marketing manager from
+China’s Poly Art and Culture Co.
+2019-20LANDSCAPE OF THE SOUL
+41
+The Voice of the Rain
+Walt Whitman
+And who art thou? said I to the soft-falling shower,
+Which, strange to tell, gave me an answer, as here translated:
+I am the Poem of Earth, said the voice of the rain,
+Eternal I rise impalpable out of the land and the
+bottomless sea,
+Upward to heaven, whence, vaguely form’d, altogether
+changed, and yet the same,
+I descend to lave the droughts, atomies, dust-layers of
+the globe,
+And all that in them without me were seeds only, latent,
+unborn;
+And forever, by day and night, I give back life to my
+own origin,
+And make pure and beautify it;
+(For song, issuing from its birth-place, after fulfilment,
+wandering
+Reck’d or unreck’d, duly with love returns.)
+impalpable: something that cannot be touched
+lave: wash; bathe
+atomies: tiny particles
+latent: hidden
+2019-2042
+HORNBILL
+Think it out
+I.
+1. There are two voices in the poem. Who do they belong to?
+Which lines indicate this?
+2. What does the phrase “strange to tell” mean?
+3. There is a parallel drawn between rain and music. Which
+words indicate this? Explain the similarity between the two.
+4. How is the cyclic movement of rain brought out in the poem?
+Compare it with what you have learnt in science.
+5. Why are the last two lines put within brackets?
+6. List the pairs of opposites found in the poem.
+II. Notice the following sentence patterns.
+1. And who art thou? said I to the soft-falling shower.
+2. I am the Poem of Earth, said the voice of the rain.
+3. Eternal I rise
+4. For song … duly with love returns
+Rewrite the above sentences in prose.
+III. Look for some more poems on the rain and see how this one is
+different from them.
+Notes
+This is a nature poem celebrating the coming of the rain.
+Understanding the poem
+lVoices in the poem
+lSense of the poem
+lRelating to the process of rainfall scientifically (across the
+curriculum)
+lNoticing sentence structure in poems
+lComparison with other rain poems
+2019-20THE AILING PLANET: THE GREEN MOVEMENT’S ROLE
+43
+5. The Ailing Planet: the Green
+Movement’s Role
+Nani Palkhivala
+Notice these expressions in the text.
+Infer their meaning from the context.
+³a holistic and ecological view³inter alia
+³sustainable development³decimated
+³languish³catastrophic depletion
+³ignominious darkness³transcending concern
+The following article was written by Nani Palkhivala and
+published in The Indian Express on 24 November 1994. The
+issues that he raised regarding the declining health of the earth
+continue to have relevance.
+ONE cannot recall any movement in world history which has
+gripped the imagination of the entire human race so completely
+and so rapidly as the Green Movement which started nearly
+twenty-five years ago. In 1972 the world’s first nationwide Green
+party was founded in New Zealand. Since then, the movement
+has not looked back.
+We have shifted — one hopes, irrevocably — from the
+mechanistic view to a holistic and ecological view of the world.
+It is a shift in human perceptions as revolutionary as that
+2019-2044
+HORNBILL
+introduced by Copernicus who taught mankind in the sixteenth
+century that the earth and the other planets revolved round the
+sun. For the first time in human history, there is a growing
+worldwide consciousness that the earth itself is a living
+organism — an enormous being of which we are parts. It has its
+own metabolic needs and vital processes which need to be
+respected and preserved.
+The earth’s vital signs reveal a patient in declining health.
+We have begun to realise our ethical obligations to be good
+stewards of the planet and responsible trustees of the legacy to
+future generations.
+The concept of sustainable development was popularised
+in 1987 by the World Commission on Environment and
+Development. In its report it defined the idea as “Development
+that meets the needs of the present, without compromising the
+ability of future generations to meet their needs”, i.e., without
+stripping the natural world of resources future generations
+would need.
+In the zoo at Lusaka, Zambia, there is a cage where the notice
+reads, ‘The world’s most dangerous animal’. Inside the cage there
+is no animal but a mirror where you see yourself. Thanks to the
+efforts of a number of agencies in different countries, a new
+awareness has now dawned upon the most dangerous animal in
+the world. He has realised the wisdom of shifting from a system
+based on domination to one based on partnership.
+Scientists have catalogued about 1.4 million living species
+with which mankind shares the earth. Estimates vary widely as
+regards the still-uncatalogued living species — biologists reckon
+that about three to a hundred million other living species still
+languish unnamed in ignominious darkness.
+One of the early international commissions which dealt, inter
+alia, with the question of ecology and environment was the Brandt
+Commission which had a distinguished Indian as one of its
+members — Mr L.K. Jha. The First Brandt Report raised the
+question — “Are we to leave our successors a scorched planet of
+advancing deserts, impoverished landscapes and ailing
+environment?”
+Mr Lester R. Brown in his thoughtful book, The Global
+Economic Prospect, points out that the earth’s principal
+biological systems are four — fisheries, forests, grasslands, and
+croplands — and they form the foundation of the global
+2019-20THE AILING PLANET: THE GREEN MOVEMENT’S ROLE
+45
+economic system. In addition to supplying our food, these four
+systems provide virtually all the raw materials for industry
+except minerals and petroleum-derived synthetics. In large
+areas of the world, human claims on these systems are reaching
+an unsustainable level, a point where their productivity is being
+impaired. When this happens, fisheries collapse, forests
+disappear, grasslands are converted into barren wastelands,
+and croplands deteriorate. In a protein-conscious and protein-
+hungry world, over-fishing is common every day. In poor
+countries, local forests are being decimated in order to procure
+firewood for cooking. In some places, firewood has become so
+expensive that “what goes under the pot now costs more than
+what goes inside it”. Since the tropical forest is, in the words of
+Dr Myers, “the powerhouse of evolution”, several species of life
+face extinction as a result of its destruction.
+It has been well said that forests precede mankind; deserts
+follow. The world’s ancient patrimony of tropical forests is now
+eroding at the rate of forty to fifty million acres a year, and the
+growing use of dung for burning deprives the soil of an important
+natural fertiliser. The World Bank estimates that a five-fold increase
+in the rate of forest planting is needed to cope with the expected
+fuelwood demand in the year 2000.
+James Speth, the President of the World Resources
+Institute, said the other day, “We were saying that we are losing
+the forests at an acre a second, but it is much closer to an
+acre-and-a-half to a second”.
+Article 48A of the Constitution of India provides that “the
+State shall endeavour to protect and improve the environment
+and to safeguard the forests and wildlife of the country”. But what
+causes endless anguish is the fact that laws are never respected
+nor enforced in India. (For instance, the Constitution says that
+casteism, untouchability and bonded labour shall be abolished,
+but they flourish shamelessly even after forty-four years of the
+operation of the Constitution.) A recent report of our Parliament’s
+Estimates Committee has highlighted the near catastrophic
+depletion of India’s forests over the last four decades. India,
+according to reliable data, is losing its forests at the rate of 3.7
+million acres a year. Large areas, officially designated as forest
+land, “are already virtually treeless”. The actual loss of forests is
+estimated to be about eight times the rate indicated by
+government statistics.
+2019-2046
+HORNBILL
+A three-year study using satellites and aerial photography
+conducted by the United Nations, warns that the environment
+has deteriorated so badly that it is ‘critical’ in many of the eighty-
+eight countries investigated.
+There can be no doubt that the growth of world population
+is one of the strongest factors distorting the future of human
+society. It took mankind more than a million years to reach the
+first billion. That was the world population around the year 1800.
+By the year 1900, a second billion was added, and the twentieth
+century has added another 3.7 billion. The present world
+population is estimated at 5.7 billion. Every four days the world
+population increases by one million.
+Fertility falls as incomes rise, education spreads, and health
+improves. Thus development is the best contraceptive. But
+development itself may not be possible if the present increase in
+numbers continues.
+The rich get richer, and the poor beget children which
+condemns them to remain poor. More children does not mean
+more workers, merely more people without work. It is not
+suggested that human beings be treated like cattle and
+compulsorily sterilised. But there is no alternative to voluntary
+family planning without introducing an element of coercion.
+The choice is really between control of population and
+perpetuation of poverty.
+The population of India is estimated to be 920 million
+today — more than the entire populations of Africa and South
+America put together. No one familiar with the conditions in
+India would doubt that the hope of the people would die in
+their hungry hutments unless population control is given
+topmost priority.
+For the first time in human history we see a transcending
+concern — the survival not just of the people but of the planet.
+We have begun to take a holistic view of the very basis of our
+existence. The environmental problem does not necessarily signal
+our demise, it is our passport for the future. The emerging new
+world vision has ushered in the Era of Responsibility. It is a holistic
+view, an ecological view, seeing the world as an integrated whole
+rather than a dissociated collection of parts.
+Industry has a most crucial role to play in this new Era of
+Responsibility. What a transformation would be effected if more
+2019-20THE AILING PLANET: THE GREEN MOVEMENT’S ROLE
+47
+businessmen shared the view of the Chairman of Du Pont,
+Mr Edgar S. Woolard who, five years ago, declared himself to be
+the Company’s “Chief Environmental Officer”. He said, “Our
+continued existence as a leading manufacturer requires that we
+excel in environmental performance.”
+Of all the statements made by Margaret Thatcher during the
+years of her Prime Ministership, none has passed so decisively
+into the current coin of English usage as her felicitous words: “No
+generation has a freehold on this earth. All we have is a life tenancy
+— with a full repairing lease”. In the words of Mr Lester Brown,
+“We have not inherited this earth from our forefathers; we have
+borrowed it from our children.”
+Understanding the text
+1. Locate the lines in the text that support the title ‘The Ailing
+Planet’.
+2. What does the notice ‘The world’s most dangerous animal’ at a
+cage in the zoo at Lusaka, Zambia, signify?
+3. How are the earth’s principal biological systems being depleted?
+4. Why does the author aver that the growth of world population is
+one of the strongest factors distorting the future of human society?
+Talking about the text
+Discuss in groups of four.
+1. Laws are never respected nor enforced in India.
+2. “Are we to leave our successors a scorched planet of advancing
+deserts, impoverished landscapes and an ailing environment?”
+3. “We have not inherited this earth from our forefathers; we have
+borrowed it from our children”.
+4. The problems of overpopulation that directly affect our
+everyday life.
+2019-2048
+HORNBILL
+Thinking about language
+The phrase ‘inter alia’ meaning ‘among other things’ is one of the
+many Latin expressions commonly used in English.
+Find out what these Latin phrases mean.
+1. prima facie
+2. ad hoc
+3. in camera
+4. ad infinitum
+5. mutatis mutandis
+6. caveat
+7. tabula rasa
+Working with words
+I.
+Locate the following phrases in the text and study their
+connotation.
+1. gripped the imagination of
+2. dawned upon
+3. ushered in
+4. passed into current coin
+5. passport of the future
+II. The words ‘grip’, ‘dawn’, ‘usher’, ‘coin’, ‘passport’ have a literal
+as well as a figurative meaning. Write pairs of sentences using
+each word in the literal as well as the figurative sense.
+Things to do
+1. Make posters to highlight the importance of the Green Movement.
+2. Maintain a record of the trees cut down and the parks
+demolished in your area, or any other act that violates the
+environment. Write to newspapers reporting on any such acts
+that disturb you.
+2019-20THE AILING PLANET: THE GREEN MOVEMENT’S ROLE
+Notes
+Understanding the text
+lEnvironmental issues
+lSocial issues
+Talking about the text
+lContemporary issues
+lEnvisioning the future
+Thinking about language
+Latin expressions commonly used
+Working with words
+lConnotations
+lFinding literal and figurative meanings
+Things to do
+Making children aware of their reponsibilities towards the
+environment
+2019-20
+4950
+HORNBILL
+6. The Browning Version
+Terence Rattigan
+Notice these expressions in the text.
+Infer their meaning from the context.
+³remove³
+³slackers³ got carried away
+kept in
+³muck³
+³sadist
+³shrivelled up
+cut
+This is an excerpt from The Browning Version*. The scene is set
+in a school. Frank is young and Crocker-Harris, middle-aged. Both
+are masters. Taplow is a boy of sixteen who has come in to do
+extra work for Crocker-Harris. But the latter has not yet arrived,
+and Frank finds Taplow waiting.
+FRANK:Do I know you?
+TAPLOW:No, sir.
+FRANK:What’s your name?
+TAPLOW:Taplow.
+FRANK:Taplow! No, I don’t. You’re not a scientist I gather?
+TAPLOW:No, sir, I’m still in the lower fifth. I can’t specialise
+until next term — that’s to say, if I’ve got my
+remove all right.
+FRANK:Don’t you know if you’ve got your remove?
+TAPLOW:No sir, Mr Crocker-Harris doesn’t tell us the results
+like the other masters.
+* The reference within the play of Robert Browning’s translation of the Greek
+tragedy, Agamemnon
+2019-20THE BROWNING VERSION
+51
+FRANK:Why not?
+TAPLOW:Well, you know what he’s like, sir.
+FRANK:I believe there is a rule that form results should
+only be announced by the headmaster on the last
+day of term.
+TAPLOW:Yes — but who else pays attention to it — except
+Mr Crocker-Harris?
+FRANK:I don’t, I admit — but that’s no criterion. So you’ve
+got to wait until tomorrow to know your fate, have
+you?
+TAPLOW:Yes, sir.
+FRANK:Supposing the answer is favourable — what then?
+TAPLOW:Oh — science, sir, of course.
+FRANK:(sadly) Yes. We get all the slackers.
+TAPLOW:(protestingly) I’m extremely interested in science, sir.
+FRANK:Are you? I’m not. Not, at least, in the science I
+have to teach.
+TAPLOW:Well, anyway, sir, it’s a good deal more exciting
+than this muck (indicating his book).
+FRANK:What is this muck?
+TAPLOW:Aeschylus, sir. The Agamemnon.
+FRANK:And your considered view is that the Agamemnon
+is muck?
+TAPLOW:Well, no, sir. I don’t think the play is muck —
+exactly. I suppose, in a way, it’s rather a good
+plot, really, a wife murdering her husband and all
+that. I only meant the way it’s taught to us — just
+a lot of Greek words strung together and fifty lines
+if you get them wrong.
+FRANK:You sound a little bitter, Taplow.
+TAPLOW:I am rather, sir.
+FRANK:Kept in, eh?
+TAPLOW:No, sir. Extra work.
+FRANK:Extra work — on the last day of school?
+2019-2052
+HORNBILL
+T APLOW : Yes, sir, and I might be playing golf. You’d think
+he’d have enough to do anyway himself,
+considering he’s leaving tomorrow for good —
+but oh no, I missed a day last week when I
+was ill — so here I am — and look at the
+weather, sir.
+FRANK:Bad luck. Still there’s one comfort. You’re pretty
+well certain to get your remove tomorrow for being
+a good boy in taking extra work.
+TAPLOW:Well, I’m not so sure, sir. That would be true of
+the ordinary masters, all right. They just wouldn’t
+dare not to give a chap a remove after his taking
+extra work. But those sort of rules don’t apply to
+the Crock — Mr Crocker-Harris. I asked him
+yesterday outright if he’d given me a remove and
+do you know what he said, sir?
+FRANK:No. What?
+TAPLOW:(imitating a very gentle, rather throaty voice) “My
+dear Taplow, I have given you exactly what you
+deserve. No less; and certainly no more.” Do you
+know sir, I think he may have marked me down,
+rather than up, for taking extra work. I mean, the
+man’s hardly human. (He breaks off quickly.)
+Sorry, sir. Have I gone too far?
+FRANK:Yes. Much too far.
+TAPLOW:Sorry, sir. I got carried away.
+FRANK:Evidently. (He picks up a newspaper and opens it) —
+Er Taplow.
+TAPLOW:Yes, sir?
+FRANK:What was that Crocker-Harris said to you? Just —
+er — repeat it, would you?
+TAPLOW:(imitating again) “My dear Taplow, I have given
+you exactly what you deserve. No less; and
+certainly no more.”
+FRANK:(looking severe) Not in the least like him. Read
+your nice Aeschylus and be quiet.
+TAPLOW:(with dislike) Aeschylus.
+2019-20THE BROWNING VERSION
+53
+FRANK:Look, what time did Mr Crocker-Harris tell you to
+be here?
+TAPLOW:Six-thirty, sir.
+FRANK:Well, he’s ten minutes late. Why don’t you cut?
+You could still play golf before lock-up.
+TAPLOW:(really shocked) Oh, no, I couldn’t cut. Cut the
+Crock — Mr Crocker-Harris? I shouldn’t think it’s
+ever been done in the whole time he’s been here.
+God knows what would happen if I did. He’d
+probably follow me home, or something ...
+FRANK:I must admit I envy him the effect he seems to
+have on you boys in the form. You all seem scared
+to death of him. What does he do — beat you all,
+or something?
+TAPLOW:Good Lord, no. He’s not a sadist, like one or two
+of the others.
+FRANK:I beg your pardon?
+TAPLOW:A sadist, sir, is someone who gets pleasure out of
+giving pain.
+FRANK:Indeed? But I think you went on to say that some
+other masters ...
+T APLOW: Well, of course, they are, sir. I won’t mention
+names, but you know them as well as I do. Of
+course I know most masters think we boys don’t
+understand a thing — but, sir, you’re different.
+You’re young — well, comparatively, anyway —
+and you’re science. You must know what
+sadism is.
+FRANK:(after a pause) Good Lord! What are our schools
+coming to?
+TAPLOW:Anyway, the Crock isn’t a sadist. That’s what I’m
+saying. He wouldn’t be so frightening if he were —
+because at least it would show he had some
+feelings. But he hasn’t. He’s all shrivelled up
+inside like a nut and he seems to hate people to
+like him. It’s funny, that. I don’t know any other
+master who doesn’t like being liked —
+2019-2054
+HORNBILL
+FRANK:And I don’t know any boy who doesn’t use that for
+his own purposes.
+TAPLOW:Well, it’s natural sir. But not with the Crock —
+FRANK:Mr Crocker-Harris.
+TAPLOW:Mr Crocker-Harris. The funny thing is that in spite
+of everything, I do rather like him. I can’t help it.
+And sometimes I think he sees it and that seems
+to shrivel him up even more —
+FRANK:I’m sure you’re exaggerating.
+TAPLOW: No, sir. I’m not. In form the other day he made
+one of his classical jokes. Of course nobody
+laughed because nobody understood it, myself
+included. Still, I knew he’d meant it as funny, so
+I laughed. Out of ordinary common politeness,
+and feeling a bit sorry for him for having made a
+poor joke. Now I can’t remember what the joke
+was, but suppose I make it. Now you laugh, sir.
+(Frank laughs.)
+TAPLOW:
+(in a gentle, throaty voice) “Taplow — you laughed
+at my little joke, I noticed. I must confess that I
+am pleased at the advance your Latin has made
+since you so readily have understood what the
+rest of the form did not. Perhaps, now, you would
+be good enough to explain it to them, so that they
+too can share your pleasure”.
+The door up right is pushed open and Millie Crocker-Harris
+enters. She is a thin woman in her late thirties, rather more
+smartly dressed than the general run of schoolmasters’
+wives. She is wearing a cape and carries a shopping
+basket. She closes the door and then stands by the screen
+watching Taplow and Frank. It is a few seconds before
+they notice her.
+FRANK:
+Come along, Taplow (moves slowly above the
+desk). Do not be so selfish as to keep a good joke
+to yourself. Tell the others… (He breaks off
+suddenly, noticing Millie.) Oh Lord!
+2019-20THE BROWNING VERSION
+55
+Frank turns quickly, and
+seeing Millie.
+seems infinitely relieved at
+FRANK:Oh, hullo.
+MILLIE:(without expression) Hullo. (She comes down to the
+sideboard and puts her basket on it.)
+TAPLOW:(moving up to left of Frank; whispering frantically)
+Do you think she heard?
+FRANK:TAPLOW:(shakes his head comfortingly. Millie takes off her
+cape and hangs it on the hall-stand.) I think she did.
+She was standing there quite a time.
+If she did and she tells him, there goes my remove.
+FRANK:Nonsense. (He crosses to the fireplace.)
+Millie takes the basket from the sideboard, moves above
+the table and puts the basket on it.
+MILLIE:(to Taplow) Waiting for my husband?
+TAPLOW:(moving down left of the table) Er-yes.
+MILLIE:He’s at the Bursar’s and might be there quite a
+time. If I were you I’d go.
+TAPLOW:(doubtfully) He said most particularly I was to
+come.
+MILLIE:Well, why don’t you run away for a quarter of an
+hour and come back? (She unpacks some things
+from the basket.)
+TAPLOW:Supposing he gets here before me?
+MILLIE:(smiling) I’ll take the blame. (She takes a prescription
+out of the basket.) I tell you what — you can do a job
+for him. Take this prescription to the chemist and
+get it made up.
+All right, Mrs Crocker-Harris. (He crosses towards
+the door up right.)
+TAPLOW:
+2019-2056
+HORNBILL
+Understanding the text
+1. Comment on the attitude shown by Taplow towards Crocker-Harris.
+2. Does Frank seem to encourage Taplow’s comments on Crocker-
+Harris?
+3. What do you gather about Crocker-Harris from the play?
+Talking about the text
+Discuss with your partners
+1. Talking about teachers among friends.
+2. The manner you adopt when you talk about a teacher to other
+teachers.
+3. Reading plays is more interesting than studying science.
+Working with words
+A sadist is a person who gets pleasure out of giving pain to others.
+Given below are some dictionary definitions of certain kinds of persons.
+Find out the words that fit these descriptions.
+1. A person who considers it very important that things should be
+correct or genuine e.g. in the use of language or in the arts: P...
+2. A person who believes that war and violence are wrong and will not
+fight in a war: P...
+3. A person who believes that nothing really exists: N...
+4. A person who is always hopeful and expects the best in all things: O...
+5. A person who follows generally accepted norms of behaviour: C...
+6. A person who believes that material possessions are all that matter
+in life: M...
+Things to do
+Based on the text enact your own version of the play. Work in pairs.
+2019-20THE BROWNING VERSION
+57
+Notes
+After the students have read the play silently by themselves, ask them to
+take on the roles of the three characters and read their parts aloud.
+Understanding the text
+Global comprehension
+Talking about the text
+lSpeaking to each other about something that most students do:
+commenting on their teachers (To teachers — take this in a spirit
+of good humour)
+lReflecting on how we talk about others in their absence
+lScience and Literature: the dichotomy
+Working with words
+Common terms used for people with particular behaviour patterns or
+beliefs, taking off from the text with the word ‘sadist’.
+Things to do
+Instead of conventional role-play involving reading out or enacting the
+original text, students are encouraged to make their own versions of
+the play based on the same content (creativity, fun and authenticity).
+2019-2058
+HORNBILL
+Childhood
+Markus Natten
+When did my childhood go?
+Was it the day I ceased to be eleven,
+Was it the time I realised that Hell and Heaven,
+Could not be found in Geography,
+And therefore could not be,
+Was that the day!
+When did my childhood go?
+Was it the time I realised that adults were not
+all they seemed to be,
+They talked of love and preached of love,
+But did not act so lovingly,
+Was that the day!
+When did my childhood go?
+Was it when I found my mind was really mine,
+To use whichever way I choose,
+Producing thoughts that were not those of other people
+But my own, and mine alone
+Was that the day!
+Where did my childhood go?
+It went to some forgotten place,
+That’s hidden in an infant’s face,
+That’s all I know.
+2019-20CHILDHOOD
+59
+Think it out
+1. Identify the stanza that talks of each of the following.
+individuality
+rationalism
+hypocrisy
+2. What according to the poem is involved in the process of
+growing up?
+3. What is the poet’s feeling towards childhood?
+4. Which do you think are the most poetic lines? Why?
+Notes
+Understanding the poem
+Questions are based on
+lThematic comprehension
+lReflection on theme
+lPoetic sensibility
+2019-2060
+HORNBILL
+7. The Adventure
+Jayant Narlikar
+Notice these expressions in the text.
+Infer their meaning from the context.
+blow-by-blow account
+morale booster
+³ relegated to
+³ political acumen
+de facto
+astute
+³ doctored accounts
+³ gave vent to
+³³
+³³
+THE Jijamata Express sped along the Pune-Bombay* route
+considerably faster than the Deccan Queen. There were no
+industrial townships outside Pune. The first stop, Lonavala, came
+in 40 minutes. The ghat section that followed was no different
+from what he knew. The train stopped at Karjat only briefly and
+went on at even greater speed. It roared through Kalyan.
+Meanwhile, the racing mind of Professor Gaitonde had arrived
+at a plan of action in Bombay. Indeed, as a historian he felt he
+should have thought of it sooner. He would go to a big library
+and browse through history books. That was the surest way of
+finding out how the present state of affairs was reached. He also
+planned eventually to return to Pune and have a long talk with
+Rajendra Deshpande, who would surely help him understand
+what had happened.
+That is, assuming that in this world there existed someone
+called Rajendra Deshpande!
+The train stopped beyond the long tunnel. It was a small station
+called Sarhad. An Anglo-Indian in uniform went through the train
+checking permits.
+The present story is an adapted version. The original text of the story can be
+consulted on the NCERT website : www.ncert.nic.in
+* Now known as Mumbai
+2019-20THE ADVENTURE
+61
+“This is where the British Raj begins. You are going for the
+first time, I presume?” Khan Sahib asked.
+“Yes.” The reply was factually correct. Gangadharpant had
+not been to this Bombay before. He ventured a question: “And,
+Khan Sahib, how will you go to Peshawar?”
+“This train goes to the Victoria Terminus*. I will take the
+Frontier Mail tonight out of Central.”
+“How far does it go? By what route?”
+“Bombay to Delhi, then to Lahore and then Peshawar. A long
+journey. I will reach Peshawar the day after tomorrow.”
+Thereafter, Khan Sahib spoke a lot about his business and
+Gangadharpant was a willing listener. For, in that way, he was
+able to get some flavour of life in this India that was so different.
+The train now passed through the suburban rail traffic. The
+blue carriages carried the letters, GBMR, on the side.
+“Greater Bombay Metropolitan Railway,” explained Khan
+Sahib. “See the tiny Union Jack painted on each carriage? A
+gentle reminder that we are in British territory.”
+The train began to slow down beyond Dadar and stopped
+only at its destination, Victoria Terminus. The station looked
+remarkably neat and clean. The staff was mostly made up of
+Anglo-Indians and Parsees along with a handful of British officers.
+As he emerged from the station, Gangadharpant found
+himself facing an imposing building. The letters on it proclaimed
+its identity to those who did not know this Bombay landmark:
+EAST INDIA HOUSE HEADQUARTERS OF
+THE EAST INDIA COMPANY
+Prepared as he was for many shocks, Professor Gaitonde had not
+expected this. The East India Company had been wound up shortly
+after the events of 1857 — at least, that is what history books said.
+Yet, here it was, not only alive but flourishing. So, history had
+taken a different turn, perhaps before 1857. How and when had it
+happened? He had to find out.
+As he walked along Hornby Road, as it was called, he found
+a different set of shops and office buildings. There was no
+Handloom House building. Instead, there were Boots and
+Woolworth departmental stores, imposing offices of Lloyds,
+Barclays and other British banks, as in a typical high street of a
+town in England.
+* Now known as Chattrapati Shivaji Terminus
+2019-2062
+HORNBILL
+He turned right along Home Street and entered Forbes
+building.
+“I wish to meet Mr Vinay Gaitonde, please,” he said to the
+English receptionist.
+She searched through the telephone list, the staff list and
+then through the directory of employees of all the branches of
+the firm. She shook her head and said, “I am afraid I can’t find
+anyone of that name either here or in any of our branches. Are
+you sure he works here?”
+This was a blow, not totally unexpected. If he himself were
+dead in this world, what guarantee had he that his son would
+be alive? Indeed, he may not even have been born!
+He thanked the girl politely and came out. It was
+characteristic of him not to worry about where he would stay.
+His main concern was to make his way to the library of the
+Asiatic Society to solve the riddle of history. Grabbing a quick
+lunch at a restaurant, he made his way to the Town Hall.
+_____________
+Yes, to his relief, the Town Hall was there, and it did house the
+library. He entered the reading room and asked for a list of history
+books including his own.
+His five volumes duly arrived on his table. He started from
+the beginning. Volume one took the history up to the period of
+Ashoka, volume two up to Samudragupta, volume three up to
+Mohammad Ghori and volume four up to the death of Aurangzeb.
+Up to this period history was as he knew it. The change evidently
+had occurred in the last volume.
+Reading volume five from both ends inwards, Gangadharpant
+finally converged on the precise moment where history had taken
+a different turn.
+That page in the book described the Battle of Panipat, and it
+mentioned that the Marathas won it handsomely. Abdali was
+routed and he was chased back to Kabul by the triumphant
+Maratha army led by Sadashivrao Bhau and his nephew, the
+young Vishwasrao.
+The book did not go into a blow-by-blow account of the
+battle itself. Rather, it elaborated in detail its consequences for
+the power struggle in India. Gangadharpant read through the
+account avidly. The style of writing was unmistakably his, yet
+he was reading the account for the first time!
+2019-20THE ADVENTURE
+63
+Their victory in the battle was not only a great morale booster
+to the Marathas but it also established their supremacy in
+northern India. The East India Company, which had been
+watching these developments from the sidelines, got the message
+and temporarily shelved its expansionist programme.
+For the Peshwas the immediate result was an increase in
+the influence of Bhausaheb and Vishwasrao who eventfully
+succeeded his father in 1780 A.D. The trouble-maker,
+Dadasaheb, was relegated to the background and he eventually
+retired from state politics.
+To its dismay, the East India Company met its match in
+the new Maratha ruler, Vishwasrao. He and his brother,
+Madhavrao, combined political acumen with valour and
+systematically expanded their influence all over India. The
+Company was reduced to pockets of influence near Bombay,
+Calcutta* and Madras@, just like its European rivals, the
+Portuguese and the French.
+For political reasons, the Peshwas kept the puppet Mughal
+regime alive in Delhi. In the nineteenth century these de facto
+rulers from Pune were astute enough to recognise the
+importance of the technological age dawning in Europe. They
+set up their own centres for science and technology. Here, the
+East India Company saw another opportunity to extend its
+influence. It offered aid and experts. They were accepted only to
+make the local centres self-sufficient.
+The twentieth century brought about further changes
+inspired by the West. India moved towards a democracy. By
+then, the Peshwas had lost their enterprise and they were
+gradually replaced by democratically elected bodies. The
+Sultanate at Delhi survived even this transition, largely because
+it wielded no real influence. The Shahenshah of Delhi was no
+more than a figurehead to rubber-stamp the ‘recommendations’
+made by the central parliament.
+As he read on, Gangadharpant began to appreciate the India
+he had seen. It was a country that had not been subjected to
+slavery for the white man; it had learnt to stand on its feet and
+knew what self-respect was. From a position of strength and for
+purely commercial reasons, it had allowed the British to retain
+* Now known as Kolkata
+@ Now known as Chennai
+2019-2064
+HORNBILL
+Bombay as the sole outpost on the subcontinent. That lease was
+to expire in the year 2001, according to a treaty of 1908.
+Gangadharpant could not help comparing the country he
+knew with what he was witnessing around him.
+But, at the same time, he felt that his investigations were
+incomplete. How did the Marathas win the battle? To find the
+answer he must look for accounts of the battle itself.
+He went through the books and journals before him. At last,
+among the books he found one that gave him the clue. It was
+Bhausahebanchi Bakhar.
+Although he seldom relied on the Bakhars for historical
+evidence, he found them entertaining to read. Sometimes, buried
+in the graphic but doctored accounts, he could spot the germ
+of truth. He found one now in a three-line account of how close
+Vishwasrao had come to being killed:
+... And then Vishwasrao guided his horse to the melee where the
+elite troops were fighting and he attacked them. And God was
+merciful. A shot brushed past his ear. Even the difference of a til
+(sesame) would have led to his death.
+At eight o’clock the librarian politely reminded the professor
+that the library was closing for the day. Gangadharpant emerged
+from his thoughts. Looking around he noticed that he was the
+only reader left in that magnificent hall.
+“I beg your pardon, sir! May I request you to keep these
+books here for my use tomorrow morning? By the way, when do
+you open?”
+“At eight o’clock, sir.” The librarian smiled. Here was a user
+and researcher right after his heart.
+As the professor left the table he shoved some notes into his
+right pocket. Absent-mindedly, he also shoved the Bakhar into
+his left pocket.
+__________
+He found a guest house to stay in and had a frugal meal. He
+then set out for a stroll towards the Azad Maidan.
+In the maidan he found a throng moving towards a pandal.
+So, a lecture was to take place. Force of habit took Professor
+Gaitonde towards the pandal. The lecture was in progress,
+although people kept coming and going. But Professor Gaitonde
+was not looking at the audience. He was staring at the platform
+2019-20THE ADVENTURE
+65
+as if mesmerised. There was a table and a chair but the latter was
+unoccupied.
+The presidential chair unoccupied! The sight stirred him to
+the depths. Like a piece of iron attracted to a magnet, he swiftly
+moved towards the chair.
+The speaker stopped in mid-sentence, too shocked to
+continue. But the audience soon found voice.
+“Vacate the chair!”
+“This lecture series has no chairperson...”
+“Away from the platform, mister!”
+“The chair is symbolic, don’t you know?”
+What nonsense! Whoever heard of a public lecture without a
+presiding dignitary? Professor Gaitonde went to the mike and
+gave vent to his views. “Ladies and gentlemen, an unchaired
+lecture is like Shakespeare’s Hamlet without the Prince of
+Denmark. Let me tell you...”
+But the audience was in no mood to listen. “Tell us nothing.
+We are sick of remarks from the chair, of vote of thanks, of long
+introductions.”
+“We only want to listen to the speaker...”
+“We abolished the old customs long ago...”
+“Keep the platform empty, please...”
+But Gangadharpant had the experience of speaking at 999
+meetings and had faced the Pune audience at its most hostile.
+He kept on talking.
+He soon became a target for a shower of tomatoes, eggs and
+other objects. But he kept on trying valiantly to correct this
+sacrilege. Finally, the audience swarmed to the stage to eject
+him bodily.
+And, in the crowd Gangadharpant was nowhere to be seen.
+__________
+“That is all I have to tell, Rajendra. All I know is that I was found
+in the Azad Maidan in the morning. But I was back in the world
+I am familiar with. Now, where exactly did I spend those two
+days when I was absent from here?”
+Rajendra was dumbfounded by the narrative. It took him a
+while to reply.
+“Professor, before, just prior to your collision with the truck,
+what were you doing?” Rajendra asked.
+2019-2066
+HORNBILL
+“I was thinking of the catastrophe theory and its implications
+for history.”
+“Right! I thought so!” Rajendra smiled.
+“Don’t smile smugly. In case you think that it was just my
+mind playing tricks and my imagination running amok, look
+at this.”
+And, triumphantly, Professor Gaitonde produced his vital
+piece of evidence: a page torn out of a book.
+Rajendra read the text on the printed page and his face
+underwent a change. Gone was the smile and in its place came
+a grave expression. He was visibly moved.
+Gangadharpant pressed home his advantage. “I had
+inadvertently slipped the Bakhar in my pocket as I left the library.
+I discovered my error when I was paying for my meal. I had
+intended to return it the next morning. But it seems that in the
+melee of Azad Maidan, the book was lost; only this torn-off page
+remained. And, luckily for me, the page contains vital evidence.”
+Rajendra again read the page. It described how Vishwasrao
+narrowly missed the bullet; and how that event, taken as an
+omen by the Maratha army, turned the tide in their favour.
+“Now look at this.” Gangadharpant produced his own copy
+of Bhausahebanchi Bakhar, opened at the relevant page. The
+account ran thus:
+... And then Vishwasrao guided his horse to the melee where the
+elite troops were fighting, and he attacked them. And God expressed
+His displeasure. He was hit by the bullet.
+“Professor Gaitonde, you have given me food for thought.
+Until I saw this material evidence, I had simply put your
+experience down to fantasy. But facts can be stranger than
+fantasies, as I am beginning to realise.”
+“Facts? What are the facts? I am dying to know!” Professor
+Gaitonde said.
+____________
+Rajendra motioned him to silence and started pacing the room,
+obviously under great mental strain. Finally, he turned around
+and said, “Professor Gaitonde, I will try to rationalise your
+experience on the basis of two scientific theories as known today.
+Whether I succeed or not in convincing you of the facts, only
+you can judge — for you have indeed passed through a fantastic
+experience: or, more correctly, a catastrophic experience!”
+2019-20THE ADVENTURE
+67
+“Please continue, Rajendra! I am all ears,” Professor Gaitonde
+replied. Rajendra continued pacing as he talked.
+“You have heard a lot about the catastrophe theory at that
+seminar. Let us apply it to the Battle of Panipat. Wars fought
+face to face on open grounds offer excellent examples of this
+theory. The Maratha army was facing Abdali’s troops on the
+field of Panipat. There was no great disparity between the latter’s
+troops and the opposing forces. Their armour was comparable.
+So, a lot depended on the leadership and the morale of the troops.
+The juncture at which Vishwasrao, the son of and heir to the
+Peshwa, was killed proved to be the turning point. As history
+has it, his uncle, Bhausaheb, rushed into the melee and was
+never seen again. Whether he was killed in battle or survived is
+not known. But for the troops at that particular moment, that
+blow of losing their leaders was crucial. They lost their morale
+and fighting spirit. There followed an utter rout.
+“Exactly, Professor! And what you have shown me on that
+torn page is the course taken by the battle, when the bullet
+missed Vishwasrao. A crucial event gone the other way. And its
+effect on the troops was also the opposite. It boosted their morale
+and provided just that extra impetus that made all the
+difference,” Rajendra said.
+“Maybe so. Similar statements are made about the Battle of
+Waterloo, which Napoleon could have won. But we live in a
+unique world which has a unique history. This idea of ‘it might
+have been’ is okay for the sake of speculation but not for reality,”
+Gangadharpant said.
+“I take issue with you there. In fact, that brings me to my
+second point which you may find strange; but please hear me
+out,” Rajendra said.
+Gangadharpant listened expectantly as Rajendra continued.
+“What do we mean by reality? We experience it directly with our
+senses or indirectly via instruments. But is it limited to what we
+see? Does it have other manifestations?
+“That reality may not be unique has been found from
+experiments on very small systems — of atoms and their
+constituent particles. When dealing with such systems the
+physicist discovered something startling. The behaviour of these
+systems cannot be predicted definitively even if all the physical
+laws governing those systems are known.
+“Take an example. I fire an electron from a source. Where
+will it go? If I fire a bullet from a gun in a given direction at a
+2019-2068
+HORNBILL
+given speed, I know where it will be at a later time. But I cannot
+make such an assertion for the electron. It may be here, there,
+anywhere. I can at best quote odds for it being found in a specified
+location at a specified time.”
+“The lack of determinism in quantum theory! Even an
+ignoramus historian like me has heard of it,” Professor
+Gaitonde said.
+“So, imagine many world pictures. In one world the electron
+is found here, in another it is over there. In yet another it is in a
+still different location. Once the observer finds where it is, we
+know which world we are talking about. But all those alternative
+worlds could exist just the same.” Rajendra paused to marshall
+his thoughts.
+“But is there any contact between those many worlds?”
+Professor Gaitonde asked.
+“Yes and no! Imagine two worlds, for example. In both an
+electron is orbiting the nucleus of an atom...”
+“Like planets around the sun...” Gangadharpant interjected.
+“Not quite. We know the precise trajectory of the planet. The
+electron could be orbiting in any of a large number of specified
+states. These states may be used to identify the world. In state
+no.1 we have the electron in a state of higher energy. In state
+no. 2 it is in a state of lower energy. It can make a jump from
+high to low energy and send out a pulse of radiation. Or a pulse
+of radiation can knock it out of state no. 2 into state no.1. Such
+transitions are common in microscopic systems. What if it
+happened on a macroscopic level?” Rajendra said.
+“I get you! You are suggesting that I made a transition from
+one world to another and back again?” Gangadharpant asked.
+“Fantastic though it seems, this is the only explanation I
+can offer. My theory is that catastrophic situations offer radically
+different alternatives for the world to proceed. It seems that so
+far as reality is concerned all alternatives are viable but the
+observer can experience only one of them at a time.
+“By making a transition, you were able to experience two worlds
+although one at a time. The one you live in now and the one where
+you spent two days. One has the history we know, the other a
+different history. The separation or bifurcation took place in the
+Battle of Panipat. You neither travelled to the past nor to the future.
+You were in the present but experiencing a different world. Of
+course, by the same token there must be many more different
+worlds arising out of bifurcations at different points of time.”
+2019-20THE ADVENTURE
+69
+As Rajendra concluded, Gangadharpant asked the question
+that was beginning to bother him most. “But why did I make the
+transition?”
+“If I knew the answer I would solve a great problem.
+Unfortunately, there are many unsolved questions in science
+and this is one of them. But that does not stop me from guessing.”
+Rajendra smiled and proceeded, “You need some interaction to
+cause a transition. Perhaps, at the time of the collision you were
+thinking about the catastrophe theory and its role in wars. Maybe
+you were wondering about the Battle of Panipat. Perhaps, the
+neurons in your brain acted as a trigger.”
+“A good guess. I was indeed wondering what course history
+would have taken if the result of the battle had gone the other
+way,” Professor Gaitonde said. “That was going to be the topic of
+my thousandth presidential address.”
+“Now you are in the happy position of recounting your real
+life experience rather than just speculating,” Rajendra laughed.
+But Gangadharpant was grave.
+“No, Rajendra, my thousandth address was made on the Azad
+Maidan when I was so rudely interrupted. No. The Professor
+Gaitonde who disappeared while defending his chair on the platform
+will now never be seen presiding at another meeting — I have
+conveyed my regrets to the organisers of the Panipat seminar.”
+Understanding the text
+I.
+Tick the statements that are true.
+1. The story is an account of real events.
+2. The story hinges on a particular historical event.
+3. Rajendra Deshpande was a historian.
+4. The places mentioned in the story are all imaginary.
+5. The story tries to relate history to science.
+II. Briefly explain the following statements from the text.
+1. “You neither travelled to the past nor the future. You were in
+the present experiencing a different world.”
+2. “You have passed through a fantastic experience: or more
+correctly, a catastrophic experience.”
+3. Gangadharpant could not help comparing the country he knew
+with what he was witnessing around him.
+2019-2070
+HORNBILL
+4. “The lack of determinism in quantum theory!”
+5. “You need some interaction to cause a transition.”
+Talking about the text
+1. Discuss the following statements in groups of two pairs, each pair
+in a group taking opposite points of view.
+(i) A single event may change the course of the history of a nation.
+(ii) Reality is what is directly experienced through the senses.
+(iii) The methods of inquiry of history, science and philosophy
+are similar.
+2.
+(i) The story is called ‘The Adventure’. Compare it with the
+adventure described in ‘We’re Not Afraid to Die...’
+(ii) Why do you think Professor Gaitonde decided never to preside
+over meetings again?
+Thinking about language
+1. In which language do you think Gangadharpant and Khan Sahib
+talked to each other? Which language did Gangadharpant use to
+talk to the English receptionist?
+2. In which language do you think Bhausahebanchi Bakhar was
+written?
+3. There is mention of three communities in the story: the Marathas,
+the Mughals, the Anglo-Indians. Which language do you think
+they used within their communities and while speaking to the
+other groups?
+4. Do you think that the ruled always adopt the language of the ruler?
+Working with words
+I.
+Tick the item that is closest in meaning to the following phrases.
+1. to take issue with
+(i)to accept
+(ii)to discuss
+(iii)to disagree
+(iv)to add
+2019-20THE ADVENTURE
+71
+2. to give vent to
+(i)to express
+(ii)to emphasise
+(iii)suppress
+(iv)dismiss
+3. to stand on one’s feet
+(i)to be physically strong
+(ii)to be independent
+(iii)to stand erect
+(iv)to be successful
+4. to be wound up
+(i)to become active
+(ii)to stop operating
+(iii)to be transformed
+(iv)to be destroyed
+5. to meet one’s match
+(i)to meet a partner who has similar tastes
+(ii)to meet an opponent
+(iii)to meet someone who is equally able as oneself
+(iv)to meet defeat
+II. Distinguish between the following pairs of sentences.
+1. (i)
+He was visibly moved.
+(ii) He was visually impaired.
+2. (i)
+Green and black stripes were used alternately.
+(ii) Green stripes could be used or alternatively black ones.
+3. (i)
+The team played the two matches successfully.
+(ii) The team played two matches successively.
+4. (i)
+The librarian spoke respectfully to the learned scholar.
+(ii) You will find the historian and the scientist in the
+archaeology and natural science sections of the
+museum respectively.
+2019-2072
+HORNBILL
+Noticing form
+The story deals with unreal and hypothetical conditions. Some of
+the sentences used to express this notion are given below:
+1. If I fire a bullet from a gun in a given direction at a given speed,
+I know where it will be at a later time.
+2. If I knew the answer I would solve a great problem.
+3. If he himself were dead in this world, what guarantee had he
+that his son would be alive.
+4. What course would history have taken if the battle had gone the
+other way?
+Notice that in an unreal condition, it is clearly expected that the
+condition will not be fulfilled.
+Things to do
+I.
+Read the following passage on the Catastrophe Theory downloaded
+from the Internet.
+Originated by the French mathematician, Rene Thom, in
+the 1960s, catastrophe theory is a special branch of
+dynamical systems theory. It studies and classifies
+phenomena characterised by sudden shifts in behaviour
+arising from small changes in circumstances.
+Catastrophes are bifurcations between different
+equilibria, or fixed point attractors. Due to their restricted
+nature, catastrophes can be classified on the basis of how
+many control parameters are being simultaneously varied.
+For example, if there are two controls, then one finds the
+most common type, called a ‘cusp’ catastrophe. If, however,
+there are more than five controls, there is no classification.
+Catastrophe theory has been applied to a number of
+different phenomena, such as the stability of ships at sea
+and their capsizing, bridge collapse, and, with some less
+convincing success, the fight-or-flight behaviour of animals
+and prison riots.
+2019-20THE ADVENTURE
+73
+II. Look up the Internet or an encyclopedia for information on the
+following theories.
+(i) Quantum theory
+(ii) Theory of relativity
+(iii) Big Bang theory
+(iv) Theory of evolution
+Notes
+Understanding the text
+lTrue/false items to check inferential comprehension
+lExplaining statements from the text
+Talking about the text
+l
+l
+Discussing approaches of various disciplines to knowledge inquiry
+(across the curriculum)
+Cross-text reference
+Thinking about language
+lInter-community communication through common languages
+lReference to languages of different disciplines
+lPolitical domination and language imposition (discuss)
+Working with words
+l
+l
+Idiomatic expressions
+Distinction between frequently misused word forms: respectively/
+respectfully
+Noticing form
+Conditional sentences for unreal and hypothetical conditions
+Things to do
+Finding out about popular scientific theories (real-life reading)
+2019-2074
+HORNBILL
+8. Silk Road
+Nick Middleton
+Notice these expressions in the text.
+Infer their meaning from the context.
+³ducking back³swathe³careered down
+³manoeuvres³cairn of rocks³salt flats
+³billowed
+A FLAWLESS half-moon floated in a perfect blue sky on the morning
+we said our goodbyes. Extended banks of cloud like long French
+loaves glowed pink as the sun emerged to splash the distant
+mountain tops with a rose-tinted blush. Now that we were leaving
+Ravu, Lhamo said she wanted to give me a farewell present.
+One evening I’d told her through Daniel that I was heading towards
+Mount Kailash to complete the kora, and she’d said that I ought
+to get some warmer clothes. After ducking back into her tent,
+she emerged carrying one of the long-sleeved sheepskin coats
+that all the men wore. Tsetan sized me up as we clambered into
+his car. “Ah, yes,” he declared, “drokba, sir.”
+We took a short cut to get off the Changtang. Tsetan knew a
+route that would take us south-west, almost directly towards
+Mount Kailash. It involved crossing several fairly high mountain
+passes, he said. “But no problem, sir”, he assured us, “if there
+is no snow.” What was the likelihood of that I asked. “Not
+knowing, sir, until we get there.”
+From the gently rolling hills of Ravu, the short cut took us
+across vast open plains with nothing in them except a few gazelles
+2019-20SILK ROAD
+75
+Sketch of Mount Kailash
+that would look up from nibbling the arid pastures and frown
+before bounding away into the void. Further on, where the plains
+became more stony than grassy, a great herd of wild ass came
+into view. Tsetan told us we were approaching them long before
+they appeared. “Kyang,” he said, pointing towards a far-off pall
+of dust. When we drew near, I could see the herd galloping en
+masse, wheeling and turning in tight formation as if they were
+practising manoeuvres on some predetermined course. Plumes
+of dust billowed into the crisp, clean air.
+As hills started to push up once more from the rocky
+wilderness, we passed solitary drokbas tending their flocks.
+Sometimes men, sometimes women, these well-wrapped figures
+would pause and stare at our car, occasionally waving as we
+passed. When the track took us close to their animals, the sheep
+would take evasive action, veering away from the speeding vehicle.
+We passed nomads’ dark tents pitched in splendid isolation,
+usually with a huge black dog, a Tibetan mastiff, standing guard.
+These beasts would cock their great big heads when they became
+aware of our approach and fix us in their sights. As we continued
+to draw closer, they would explode into action, speeding directly
+towards us, like a bullet from a gun and nearly as fast.
+These shaggy monsters, blacker than the darkest night,
+usually wore bright red collars and barked furiously with massive
+jaws. They were completely fearless of our vehicle, shooting
+straight into our path, causing Tsetan to brake and swerve. The
+2019-2076
+HORNBILL
+dog would make chase for a hundred metres or so before easing
+off, having seen us off the property. It wasn’t difficult to
+understand why ferocious Tibetan mastiffs became popular in
+China’s imperial courts as hunting dogs, brought along the Silk
+Road in ancient times as tribute from Tibet.
+By now we could see snow-capped mountains gathering on
+the horizon. We entered a valley where the river was wide and
+mostly clogged with ice, brilliant white and glinting in the
+sunshine. The trail hugged its bank, twisting with the meanders
+as we gradually gained height and the valley sides closed in.
+The turns became sharper and the ride bumpier, Tsetan
+now in third gear as we continued to climb. The track moved
+away from the icy river, labouring through steeper slopes that
+sported big rocks daubed with patches of bright orange lichen.
+Beneath the rocks, hunks of snow clung on in the near-
+permanent shade. I felt the pressure building up in my ears,
+held my nose, snorted and cleared them. We struggled round
+another tight bend and Tsetan stopped. He had opened his
+door and jumped out of his seat before I realised what was
+going on. “Snow,” said Daniel as he too exited the vehicle, letting
+in a breath of cold air as he did so.
+A swathe of the white stuff lay across the track in front of
+us, stretching for maybe fifteen metres before it petered out and
+the dirt trail reappeared. The snow continued on either side of
+us, smoothing the abrupt bank on the upslope side. The bank
+was too steep for our vehicle to scale, so there was no way round
+the snow patch. I joined Daniel as Tsetan stepped on to the
+encrusted snow and began to slither and slide forward, stamping
+his foot from time to time to ascertain how sturdy it was. I looked
+at my wristwatch. We were at 5,210 metres above sea level.
+The snow didn’t look too deep to me, but the danger wasn’t
+its depth, Daniel said, so much as its icy top layer. “If we slip off,
+the car could turn over,” he suggested, as we saw Tsetan grab
+handfuls of dirt and fling them across the frozen surface. We
+both pitched in and, when the snow was spread with soil, Daniel
+and I stayed out of the vehicle to lighten Tsetan’s load. He backed
+up and drove towards the dirty snow, eased the car on to its icy
+surface and slowly drove its length without apparent difficulty.
+Ten minutes later, we stopped at another blockage. “Not good,
+sir,” Tsetan announced as he jumped out again to survey the
+scene. This time he decided to try and drive round the snow.
+2019-20SILK ROAD
+77
+The slope was steep and studded with major rocks, but somehow
+Tsetan negotiated them, his four-wheel drive vehicle lurching
+from one obstacle to the next. In so doing he cut off one of the
+hairpin bends, regaining the trail further up where the snow
+had not drifted.
+I checked my watch again as we continued to climb in the
+bright sunshine. We crept past 5,400 metres and my head began
+to throb horribly. I took gulps from my water bottle, which is
+supposed to help a rapid ascent.
+We finally reached the top of the pass at 5,515 metres. It was
+marked by a large cairn of rocks festooned with white silk scarves
+and ragged prayer flags. We all took a turn round the cairn, in a
+clockwise direction as is the tradition, and Tsetan checked the
+tyres on his vehicle. He stopped at the petrol tank and partially
+unscrewed the top, which emitted a loud hiss. The lower
+atmospheric pressure was allowing the fuel to expand. It sounded
+dangerous to me. “Maybe, sir,” Tsetan laughed “but no smoking.”
+My headache soon cleared as we careered down the other
+side of the pass. It was two o’clock by the time we stopped for
+lunch. We ate hot noodles inside a long canvas tent, part of a
+workcamp erected beside a dry salt lake. The plateau is
+pockmarked with salt flats and brackish lakes, vestiges of the
+Tethys Ocean which bordered Tibet before the great continental
+collision that lifted it skyward. This one was a hive of activity,
+men with pickaxes and shovels trudging back and forth in their
+long sheepskin coats and salt-encrusted boots. All wore
+sunglasses against the glare as a steady stream of blue trucks
+emerged from the blindingly white lake laden with piles of salt.
+By late afternoon we had reached the small town of Hor,
+back on the main east-west highway that followed the old trade
+route from Lhasa to Kashmir. Daniel, who was returning to
+Lhasa, found a ride in a truck so Tsetan and I bade him farewell
+outside a tyre-repair shop. We had suffered two punctures in
+quick succession on the drive down from the salt lake and Tsetan
+was eager to have them fixed since they left him with no spares.
+Besides, the second tyre he’d changed had been replaced by
+one that was as smooth as my bald head.
+Hor was a grim, miserable place. There was no vegetation
+whatsoever, just dust and rocks, liberally scattered with years
+of accumulated refuse, which was unfortunate given that the
+town sat on the shore of Lake Manasarovar, Tibet’s most
+2019-2078
+HORNBILL
+venerated stretch of water. Ancient Hindu and Buddhist
+cosmology pinpoints Manasarovar as the source of four great
+Indian rivers: the Indus, the Ganges, the Sutlej and the
+Brahmaputra. Actually only the Sutlej flows from the lake, but
+the headwaters of the others all rise nearby on the flanks of
+Mount Kailash. We were within striking distance of the great
+mountain and I was eager to forge ahead.
+But I had to wait. Tsetan told me to go and drink some tea in
+Hor’s only cafe which, like all the other buildings in town, was
+constructed from badly painted concrete and had three broken
+windows. The good view of the lake through one of them helped
+to compensate for the draught.
+I was served by a Chinese youth in military uniform who
+spread the grease around on my table with a filthy rag before
+bringing me a glass and a thermos of tea.
+Half an hour later, Tsetan relieved me from my solitary
+confinement and we drove past a lot more rocks and rubbish
+westwards out of town towards Mount Kailash.
+My experience in Hor came as a stark contrast to accounts
+I’d read of earlier travellers’ first encounters with Lake
+Manasarovar. Ekai Kawaguchi, a Japanese monk who had
+arrived there in 1900, was so moved by the sanctity of the lake
+that he burst into tears. A couple of years later, the hallowed
+waters had a similar effect on Sven Hedin, a Swede who wasn’t
+prone to sentimental outbursts.
+It was dark by the time we finally left again and after
+10.30 p.m. we drew up outside a guest house in Darchen for
+what turned out to be another troubled night. Kicking around
+in the open-air rubbish dump that passed for the town of Hor
+had set off my cold once more, though if truth be told it had
+never quite disappeared with my herbal tea. One of my nostrils
+was blocked again and as I lay down to sleep, I wasn’t convinced
+that the other would provide me with sufficient oxygen. My
+watch told me I was at 4,760 metres. It wasn’t much higher
+than Ravu, and there I’d been gasping for oxygen several times
+every night. I’d grown accustomed to these nocturnal
+disturbances by now, but they still scared me.
+Tired and hungry, I started breathing through my mouth.
+After a while, I switched to single-nostril power which seemed
+to be admitting enough oxygen but, just as I was drifting off,
+I woke up abruptly. Something was wrong. My chest felt
+2019-20SILK ROAD
+79
+strangely heavy and I sat up, a movement that cleared my nasal
+passages almost instantly and relieved the feeling in my chest.
+Curious, I thought.
+I lay back down and tried again. Same result. I was on the
+point of disappearing into the land of nod when something told
+me not to. It must have been those emergency electrical
+impulses again, but this was not the same as on previous
+occasions. This time, I wasn’t gasping for breath, I was simply
+not allowed to go to sleep.
+Sitting up once more immediately made me feel better. I
+could breathe freely and my chest felt fine. But as soon as I lay
+down, my sinuses filled and my chest was odd. I tried propping
+myself upright against the wall, but now I couldn’t manage to
+relax enough to drop off. I couldn’t put my finger on the reason,
+but I was afraid to go to sleep. A little voice inside me was
+saying that if I did I might never wake up again. So I stayed
+awake all night.
+Tsetan took me to the Darchen medical college the following
+morning. The medical college at Darchen was new and looked
+like a monastery from the outside with a very solid door that led
+into a large courtyard. We found the consulting room which was
+dark and cold and occupied by a Tibetan doctor who wore none
+of the paraphernalia that I’d been expecting. No white coat, he
+looked like any other Tibetan with a thick pullover and a woolly
+hat. When I explained my sleepless symptoms and my sudden
+aversion to lying down, he shot me a few questions while feeling
+the veins in my wrist.
+“It’s a cold,” he said finally through Tsetan. “A cold and the
+effects of altitude. I’ll give you something for it.”
+I asked him if he thought I’d recover enough to be able to do
+the kora. “Oh yes,” he said, “you’ll be fine.”
+I walked out of the medical college clutching a brown envelope
+stuffed with fifteen screws of paper. I had a five-day course of
+Tibetan medicine which I started right away. I opened an after-
+breakfast package and found it contained a brown powder that
+I had to take with hot water. It tasted just like cinnamon. The
+contents of the lunchtime and bedtime packages were less
+obviously identifiable. Both contained small, spherical brown
+pellets. They looked suspiciously like sheep dung, but of course
+I took them. That night, after my first full day’s course, I slept
+very soundly. Like a log, not a dead man.
+2019-2080
+HORNBILL
+Once he saw that I was going to live Tsetan left me, to return
+to Lhasa. As a Buddhist, he told me, he knew that it didn’t
+really matter if I passed away, but he thought it would be bad
+for business.
+Darchen didn’t look so horrible after a good night’s sleep. It
+was still dusty, partially derelict and punctuated by heaps of rubble
+and refuse, but the sun shone brilliantly in a clear blue sky and
+the outlook across the plain to the south gave me a vision of the
+Himalayas, commanded by a huge, snow-capped mountain, Gurla
+Mandhata, with just a wisp of cloud suspended over its summit.
+The town had a couple of rudimentary general stores selling
+Chinese cigarettes, soap and other basic provisions, as well as
+the usual strings of prayer flags. In front of one, men gathered
+in the afternoon for a game of pool, the battered table looking
+supremely incongruous in the open air, while nearby women
+washed their long hair in the icy water of a narrow brook that
+babbled down past my guest house. Darchen felt relaxed and
+unhurried but, for me, it came with a significant drawback. There
+were no pilgrims.
+I’d been told that at the height of the pilgrimage season, the
+town was bustling with visitors. Many brought their own
+accommodation, enlarging the settlement round its edges as
+they set up their tents which spilled down on to the plain. I’d
+timed my arrival for the beginning of the season, but it seemed
+I was too early.
+One afternoon I sat pondering my options over a glass of tea
+in Darchen’s only cafe. After a little consideration, I concluded
+they were severely limited. Clearly I hadn’t made much progress
+with my self-help programme on positive thinking.
+In my defence, it hadn’t been easy with all my sleeping
+difficulties, but however I looked at it, I could only wait. The
+pilgrimage trail was well-trodden, but I didn’t fancy doing it alone.
+The kora was seasonal because parts of the route were liable to
+blockage by snow. I had no idea whether or not the snow had
+cleared, but I wasn’t encouraged by the chunks of dirty ice that
+still clung to the banks of Darchen’s brook. Since Tsetan had
+left, I hadn’t come across anyone in Darchen with enough English
+to answer even this most basic question.
+Until, that is, I met Norbu. The cafe was small, dark and
+cavernous, with a long metal stove that ran down the middle.
+The walls and ceiling were wreathed in sheets of multi-coloured
+2019-20SILK ROAD
+81
+plastic, of the striped variety— broad blue, red and white—that is
+made into stout, voluminous shopping bags sold all over China,
+and in many other countries of Asia as well as Europe. As such,
+plastic must rate as one of China’s most successful exports along
+the Silk Road today.
+The cafe had a single window beside which I’d taken up
+position so that I could see the pages of my notebook. I’d also
+brought a novel with me to help pass the time.
+Norbu saw my book when he came in and asked with a
+gesture if he could sit opposite me at my rickety table. “You
+English?” he enquired, after he’d ordered tea. I told him I was,
+and we struck up a conversation.
+I didn’t think he was from those parts because he was wearing
+a windcheater and metal-rimmed spectacles of a Western style.
+He was Tibetan, he told me, but worked in Beijing at the Chinese
+Academy of Social Sciences, in the Institute of Ethnic Literature.
+I assumed he was on some sort of fieldwork.
+“Yes and no,” he said. “I have come to do the kora.” My heart
+jumped. Norbu had been writing academic papers about the
+Kailash kora and its importance in various works of Buddhist
+literature for many years, he told me, but he had never actually
+done it himself.
+When the time came for me to tell him what brought me to
+Darchen, his eyes lit up. “We could be a team,” he said excitedly.
+“Two academics who have escaped from the library.” Perhaps
+my positive-thinking strategy was working after all.
+My initial relief at meeting Norbu, who was also staying in
+the guest house, was tempered by the realisation that he was
+almost as ill-equipped as I was for the pilgrimage. He kept telling
+me how fat he was and how hard it was going to be. “Very high
+up,” he kept reminding me, “so tiresome to walk.” He wasn’t
+really a practising Buddhist, it transpired, but he had
+enthusiasm and he was, of course, Tibetan.
+Although I’d originally envisaged making the trek in the
+company of devout believers, on reflection I decided that perhaps
+Norbu would turn out to be the ideal companion. He suggested
+we hire some yaks to carry our luggage, which I interpreted as a
+good sign, and he had no intention of prostrating himself all
+round the mountain. “Not possible,” he cried, collapsing across
+the table in hysterical laughter. It wasn’t his style, and anyway
+his tummy was too big.
+2019-2082
+HORNBILL
+Understanding the text
+I.
+Give reasons for the following statements.
+1. The article has been titled ‘Silk Road.’
+2. Tibetan mastiffs were popular in China’s imperial courts.
+3. The author’s experience at Hor was in stark contrast to earlier
+accounts of the place.
+4. The author was disappointed with Darchen.
+5. The author thought that his positive thinking strategy worked
+well after all.
+II. Briefly comment on
+1. The purpose of the author’s journey to Mount Kailash.
+2. The author’s physical condition in Darchen.
+3. The author’s meeting with Norbu.
+4. Tsetan’s support to the author during the journey.
+5. “As a Buddhist, he told me, he knew that it didn’t really matter
+if I passed away, but he thought it would be bad for business.”
+Talking about the text
+Discuss in groups of four
+1. The sensitive behaviour of hill-folk.
+2. The reasons why people willingly undergo the travails of difficult
+journeys.
+3. The accounts of exotic places in legends and the reality.
+Thinking about language
+1. Notice the kind of English Tsetan uses while talking to the author.
+How do you think he picked it up?
+2. What do the following utterances indicate?
+(i) “I told her, through Daniel …”
+(ii) “It’s a cold,” he said finally through Tsetan.
+2019-20SILK ROAD
+83
+3. Guess the meaning of the following words.
+kora
+drokba
+kyang
+In which language are these words found?
+Working with words
+1. The narrative has many phrases to describe the scenic beauty
+of the mountainside like:
+A flawless half-moon floated in a perfect blue sky.
+Scan the text to locate other such picturesque phrases.
+2. Explain the use of the adjectives in the following phrases.
+(i) shaggy monsters
+(ii) brackish lakes
+(iii) rickety table
+(iv) hairpin bend
+(v) rudimentary general stores
+Noticing form
+1. The account has only a few passive voice sentences. Locate them.
+In what way does the use of active voice contribute to the style of
+the narrative.
+2. Notice this construction: Tsetan was eager to have them fixed. Write
+five sentences with a similar structure.
+Things to do
+“The plateau is pockmarked with salt flats and brackish lakes, vestiges
+of the Tethys Ocean which bordered Tibet before the continental collision
+that lifted it skyward.”
+Given below is an extract from an account of the Tethys Ocean
+downloaded from the Internet. Go online, key in Tethys Ocean in Google
+search and you will find exhaustive information on this geological event.
+You can also consult an encyclopedia.
+Today, India, Indonesia and the Indian Ocean cover the area
+once occupied by the Tethys Ocean. Turkey, Iraq, and Tibet sit
+on the land once known as Cimmeria. Most of the floor of the
+Tethys Ocean disappeared under Cimmeria and Laurasia. We
+2019-2084
+HORNBILL
+only know that Tethys existed because geologists like Suess
+have found fossils of ocean creatures in rocks in the Himalayas.
+So, we know those rocks were underwater, before the Indian
+continental shelf began pushing upward as it smashed into
+Cimmeria. We can see similar geologic evidence in Europe, where
+the movement of Africa raised the Alps.
+Notes
+A travelogue presenting a panoramic view of Mt Kailash.
+Understanding the text
+lFactual comprehension
+lAuthor’s adventurous experiences while scaling the hilly terrain
+Talking about the text
+lLifestyle of hill-folk
+lAuthor’s description of exotic places
+Thinking about language
+lEnglish spoken by guides
+lCommunicating with strangers
+lGuessing the meanings of words from other languages from
+the context
+Working with words
+lNoticing picturesque phrases
+lUse of uncommon adjectives
+Noticing form
+Predominant use of active voice as a contributor to the style of narration
+Things to do
+Getting information about geological formations from the Internet/
+encyclopedia
+2019-20SILK ROAD
+85
+Father to Son
+Elizabeth Jennings
+I do not understand this child
+Though we have lived together now
+In the same house for years. I know
+Nothing of him, so try to build
+Up a relationship from how
+He was when small. Yet have I killed
+The seed I spent or sown it where
+The land is his and none of mine?
+We speak like strangers, there’s no sign
+Of understanding in the air.
+This child is built to my design
+Yet what he loves I cannot share.
+Silence surrounds us. I would have
+Him prodigal, returning to
+His father’s house, the home he knew,
+Rather than see him make and move
+His world. I would forgive him too,
+Shaping from sorrow a new love.
+Father and son, we both must live
+On the same globe and the same land,
+He speaks: I cannot understand
+Myself, why anger grows from grief.
+We each put out an empty hand,
+Longing for something to forgive.
+2019-2086
+HORNBILL
+Think it out
+1. Does the poem talk of an exclusively personal experience or is it
+fairly universal?
+2. How is the father’s helplessness brought out in the poem?
+3. Identify the phrases and lines that indicate distance between father
+and son.
+4. Does the poem have a consistent rhyme scheme?
+Notes
+The poem is autobiographical in nature and describes the relationship
+between a father and his son.
+Understanding the poem
+Questions are based on
+lthe universality of the experience described
+lphrases in the poem
+lrhyme scheme in the poem
+2019-20NOTE-MAKING
+87
+Note-making
+Summarising
+Sub-titling
+Essay-writing
+Letter-writing
+Creative Writing
+2019-2088
+HORNBILL
+I know what I want to say, but I don’t know
+how to say it.
+– a student
+To be able to write effectively the student needs to
+³
+³
+³
+³
+understand the significance and purpose of writing
+develop coherence in writing
+understand and employ cohesive devices
+have relative command of grammar, spelling and
+punctuation.
+2019-20NOTE-MAKING
+89
+1. Note-making
+NOTE-MAKING is an important study skill. It also helps us at work.
+We need to draw the main points of the material we read as it is
+difficult to remember large chunks of information. Let us begin
+with an example.
+Study the following passage carefully
+Pheasants are shy, charming birds known for their brilliant
+plumage. These beautiful birds occupy an important niche
+in nature’s scheme of things. Of the 900 bird species and
+155 families, the pheasants belong to the order Galliformes
+and family Phasinidae. The Galliformes are known as game
+birds and this includes, pheasants, partridges, quails,
+grouse, francolins, turkeys and megapodes.
+There are 51 species of pheasants in the world and these
+are shown in the identification chart brought out by the
+Environment Society of India (ESI). The purpose of this chart
+is to create awareness among members of the school eco-
+clubs under the National Green Corps (NGC) of the Ministry
+of Environment and Forests, Government of India.
+Except for the Congo Peafowl, all the other pheasants
+are from Asia. Scientists believe that all pheasants originated
+from the Himalayas, and then scattered into Tibet, China,
+Myanmar, South and South East Asian countries as well as
+the Caucasus Mountains. The jungle fowl and the peafowl
+spread to South India and Sri Lanka long before the early
+settlers established themselves in the Indo-Gangetic plain.
+About a third of all the pheasants in the world are found
+in India. The male blue peafowl (the peacock) is the best
+known member of the pheasant family and is India’s national
+bird. It occupies a prominent place in India’s art, culture
+and folklore.
+2019-2090
+HORNBILL
+STEP 1
+Notice that the important information has been underlined.
+Pheasants are shy, charming birds known for their brilliant
+plumage. These beautiful birds occupy an important niche
+in nature’s scheme of things. Of the 900 bird species and
+155 families, the pheasants belong to the order Galliformes
+and family Phasinidae. The Galliformes are known as game
+birds and this includes, pheasants, partridges, quails, grouse,
+francolins, turkeys and megapodes.
+There are 51 species of pheasants in the world and these
+are shown in the identification chart brought out by the
+Environment Society of India (ESI). The purpose of this chart
+is to create awareness among members of the school eco-
+clubs under the National Green Corps (NGC) of the Ministry
+of Environment and Forests, Government of India.
+Except for the Congo Peafowl, all the other pheasants
+are from Asia. Scientists believe that all pheasants originated
+from the Himalayas, and then scattered into Tibet, China,
+Myanmar, South and South East Asian countries as well as
+the Caucasus Mountains. The jungle fowl and the peafowl
+spread to South India and Sri Lanka long before the early
+settlers established themselves in the Indo-Gangetic plain.
+About a third of all the pheasants in the world are found
+in India. The male blue peafowl (the peacock) is the best
+known member of the pheasant family and is India’s national
+bird. It occupies a prominent place in India’s art, culture
+and folklore.
+STEP 2
+Read the passage again asking yourself questions and answering
+them as you read.
+l
+l
+l
+l
+l
+What is the passage about? — Pheasants
+Where found? — Asia; particularly India (1/3 of total population)
+Origin? — Himalayas
+Time? — Long before Indo-Gangetic plain settlements.
+Which group of birds? — Order: Galliformes (game birds);
+Family — Phasinidae
+2019-20NOTE-MAKING
+l
+l
+l
+l
+91
+How many species? — 51
+What is the source of information? — ESI chart
+What is the purpose of the ESI chart? — Create awareness
+among school eco-clubs under NGC
+Which is the best known member? — Peacock, India’s
+national bird
+STEP 3
+With the help of the answers note down the main points. Write
+the points without full forms of the verbs.
+l
+l
+l
+l
+l
+l
+Pheasants — shy birds with bright plumage found largely in
+Asia, especially India
+Origin in the Himalayas and spread in China, Myanmar, South
+and SE Asia.
+Order: Galliformes — game birds; Family: Phasinidae
+No. of species: 51 (ESI chart)
+Purpose of ESI chart — Creating awareness among school
+eco-clubs under NGC.
+Peacock — India’s national bird, member of this family,
+represented in Indian art, culture and folklore.
+Notice
+l
+l
+l
+Two or three related ideas can be combined into one point.
+Use of colons
+Use of the long dash
+STEP 4
+Now go over the facts and number them.
+l
+This is only to analyse the process of note-making. With
+practice you will be able to reach Step 4 immediately, going
+through Steps 2 and 3 mentally.
+2019-2092
+HORNBILL
+STEP 5
+Finally we go over the facts and number them again.
+Read carefully the characteristics of good notes which are given
+below.
+1.(i) Notes should be short. They should identify the main
+point.
+(ii) They list information in what is called ‘note form’.
+(iii) They are written only in phrases; not sentences.
+2.(i) Information is logically divided and subdivided by the
+use of figures/letters.
+(ii) The divisions are made like this:
+Main sections
+:
+1, 2, 3, etc.
+Sub-sections
+:
+(i), (ii), (iii), etc.
+Sub-sub-sections :
+(a), (b), (c), etc.
+3.Another common method is the ‘decimal’ system.
+Main sections
+:
+1, 2, 3, etc.
+Sub-sections
+:
+1.1, 1.2, 1.3, etc.
+Sub-sub-sections
+:
+1.1.1, 1.1.2, 1.1.3, 1.2.1,
+1.2.2, etc.
+4.Abbreviations and symbols are freely used. Articles,
+prepositions and conjunctions are omitted.
+5.Notes must make sense when they are read again otherwise
+they will be of no use.
+Now read the following text.
+The energy stored in coal and petroleum originally came to
+the earth from the sun. The bulk of the present-day supplies
+was laid down some 200 to 600 million years ago, when
+tropical conditions were widespread. Lush, swampy forests
+produced huge trees; warm coastal seas swarmed with
+microscopic forms of life. When these organisms died, much
+of their tissue was recycled as it is today — through
+scavenging and decay. But a significant amount of dead
+plant and animal material was covered with mud, which
+prevented complete decomposition.
+2019-20NOTE-MAKING
+93
+With the passage of time, layer upon layer of the fine
+sediment was deposited over the once-living material; the
+sheer weight turned the sediments to rock. Sandwiched
+between the layers, both coal and petroleum were produced
+and preserved under pressure. Coal was formed mostly of
+giant fern-like plants that have only small counterparts
+today. Coal may still be forming here and there on earth,
+but conditions are not right for the production of significant
+quantities.
+1. Underline the important words and phrases.
+2. Write down points without fully expanded verbs, numbering
+them as you do.
+3. Combine related points.
+4. Group related points.
+5. Change the verbs to nouns and begin points with them.
+6. Number the points.
+After you have finished check with the notes given below.
+l
+l
+l
+l
+l
+l
+l
+l
+Storage of energy from sun in coal and petroleum
+Deposit of bulk of supplies 200 – 600 million years ago
+Teeming life in tropical conditions
+Death of life forms, leading to recycling through decay
+Prevention of total decomposition by considerable dead
+plants, animals being covered with mud
+Solidification of sediment leading to rock-formation
+over time
+Production of coal, petroleum by compression of organic
+matter between rocks
+Unsuitability of present-day conditions for coal-formation
+2019-2094
+HORNBILL
+2. Summarising
+SUMMARISING follows note-making. The purpose of note-making is
+usually for one’s own personal reference. If the main points are
+to be reported we present a summary. It is not as severely
+shortened as note-making.
+Summarising is the selection and paraphrasing of all
+important information of the original source. This is done by
+analysing the paragraphs/passage in order to formulate a plan
+of writing.
+The process of summarising would involve the steps followed
+in note-making:
+1. underlining important ideas
+2. writing them down, abridging the verbs
+3. avoiding examples, explanations, repetition.
+However, instead of nominalising the points (changing
+verbs into nouns), we expand the points into full sentences
+and link them using suitable connectors. We need to be
+precise in our expression. The summary will contain all the
+main ideas of the original. Practice in using one word for
+many will help.
+For example:
+l
+l
+Children who show intelligence far beyond their age often
+turn out to be mediocre in adult life.
+or
+Precocious children often turn out to be mediocre in
+adult life.
+Her genius was marked by excellence in the various arts,
+languages and science.
+or
+She was a versatile genius.
+2019-20SUMMARISING
+95
+Now read the following text underlining important words as you
+go along.
+Soybeans belong to the legume family. The beans are the seeds
+of the leguminous soybean plant. They can be grown on a
+variety of soils and in a wide range of climates. Soybeans are
+versatile as they can be used as whole beans, soy sprouts, or
+processed as a variety of food items, such as soy milk, tofu,
+tempeh, textured vegetable protein, miso, soy sauce, soy oil
+and margarine, and soy dairy alternatives. They are also used
+for making candles and bio-diesel.
+Soy is an excellent source of high quality protein; is
+low in saturated fats and is cholestrol-free. It is also rich
+in vitamins, especially Vitamin B complex, minerals such
+as magnesium, calcium, iron, potassium and copper and
+also fibres. In recent times it has been highly
+recommended because of its ability to lower the levels of
+Low Density Lipoprotein (LDL), a bad cholesterol. The
+Food and Drug Administration (FDA), has confirmed that
+foods containing soy protein are likely to reduce the risk
+of coronary heart disease.
+An easy way to take soy is as soymilk now available with
+added flavour. Soymilk does not contain lactose (milk sugar)
+and can be drunk by those who are allergic to normal milk.
+To get soymilk, soybeans are soaked in water, ground and
+then strained. If you don’t mind the trouble, you can also
+make it at home. (225 words).
+Now note down the important points.
+l
+Soybeans are the seeds of the soybean plant of the legume
+family.
+l
+They grow in a variety of soils and climates.
+l
+They can be used in various forms — beans, sprouts and a
+variety of food items.
+l
+They are also used to make candles and bio-diesel.
+l
+They are a source of high quality protein, vitamins, minerals
+and fibres. They are low in fat content and cholesterol. They
+can lower LDL levels and reduces risk of coronary heart
+disease.
+l
+Soymilk, lactose-free, is available as flavoured milk and can
+be drunk by those allergic to ordinary milk and can also be
+2019-2096
+HORNBILL
+made at home by soaking the beans, grinding them and
+straining the water. (111 words)
+A summary is usually one-third the length of the original
+passage. This is about half.
+Now think of what we can omit to make the summary more brief
+as shown below.
+The soybean leguminous plant which grows in all kinds of
+soil and climate yields beans, sprouts and a variety of
+processed food items and dairy alternatives and is also used
+to make candles and bio-diesel.
+Rich in protein, vitamins, minerals and fibres, it has a
+low fat and cholesterol content. It lowers LDL levels and
+reduces the risk of coronary heart disease.
+Soymilk which is lactose-free is available as flavoured
+milk and agrees with people allergic to ordinary milk. It
+can be made at home by soaking, grinding and straining
+soybean. (90 words)
+Try reducing it further to about 72 words.
+Soybean, a legume, growing in a variety of soil and climatic
+conditions, yields beans, sprouts and a variety of food items
+and is used in making candles and bio-diesel.
+Rich in protein, vitamins, minerals and fibres, it is low in
+cholesterol and fat. It lowers LDL levels and reduces the risk
+of coronary heart disease. Soymilk, lactose-free, is available
+flavoured and taken by people allergic to milk. It can also be
+made at home. (74 words)
+Notice that we have phrases in apposition: ‘a legume’, between
+commas; present participles: ‘growing’ to effect reduction. Instead
+of ‘it is rich in…’ we have used ‘rich in…’ and postponed the main
+verb in the sentence. Almost all the main points have been covered.
+Read the text below and summarise it.
+Green Sahara
+The Great Desert Where Hippos Once Wallowed
+The Sahara sets a standard for dry land. It’s the world’s
+largest desert. Relative humidity can drop into the low single
+digits. There are places where it rains only about once a
+2019-20SUMMARISING
+97
+century. There are people who reach the end of their lives
+without ever seeing water come from the sky.
+Yet beneath the Sahara are vast aquifers of fresh water,
+enough liquid to fill a small sea. It is fossil water, a treasure
+laid down in prehistoric times, some of it possibly a million
+years old. Just 6,000 years ago, the Sahara was a much
+different place.
+It was green. Prehistoric rock art in the Sahara shows
+something surprising: hippopotamuses, which need
+year-round water.
+“We don’t have much evidence of a tropical paradise out
+there, but we had something perfectly liveable,” says Jennifer
+Smith, a geologist at Washington University in St Louis.
+The green Sahara was the product of the migration of
+the paleo-monsoon. In the same way that ice ages come and
+go, so too do monsoons migrate north and south. The
+dynamics of earth’s motion are responsible. The tilt of the
+earth’s axis varies in a regular cycle — sometimes the planet
+is more tilted towards the sun, sometimes less so. The axis
+also wobbles like a spinning top. The date of the earth’s
+perihelion — its closest approach to the sun — varies in a
+cycle as well.
+At times when the Northern Hemisphere tilts sharply
+towards the sun and the planet makes its closest approach,
+the increased blast of sunlight during the north’s summer
+months can cause the African monsoon (which currently
+occurs between the Equator and roughly 170N latitude) to
+shift to the north as it did 10,000 years ago, inundating
+North Africa.
+Around 5,000 years ago the monsoon shifted dramatically
+southward again. The prehistoric inhabitants of the Sahara
+discovered that their relatively green surroundings were
+undergoing something worse than a drought (and perhaps
+they migrated towards the Nile Valley, where Egyptian culture
+began to flourish at around the same time).
+“We’re learning, and only in recent years, that some
+climate changes in the past have been as rapid as anything
+underway today,” says Robert Giegengack, a University of
+Pennsylvania geologist.
+As the land dried out and vegetation decreased, the soil
+lost its ability to hold water when it did rain. Fewer clouds
+2019-2098
+HORNBILL
+formed from evaporation. When it rained, the water washed
+away and evaporated quickly. There was a kind of runaway
+drying effect. By 4,000 years ago the Sahara had become
+what it is today.
+No one knows how human-driven climate change may
+alter the Sahara in the future. It’s something scientists
+can ponder while sipping bottled fossil water pumped
+from underground.
+“It’s the best water in Egypt,” Giegengack said — clean,
+refreshing mineral water. If you want to drink something
+good, try the ancient buried treasure of the Sahara.
+JOEL ACHENBACK
+Staff Writer, Washington Post
+2019-20S UB - TITLING
+99
+3. Sub-titling
+THE purpose of sub-titling is to convey the main idea or theme of
+each section of a long piece of writing. It helps the reader know at
+a glance the sub-topics that are being addressed. Giving suitable
+sub-titles helps break the monotony of reading long passages.
+Read the newspaper article given below and do the tasks
+that follow.
+A new deal for old cities
+The example of Curitiba in Brazil, which has attracted
+global attention for innovative urban plans using low-cost
+technologies, shows that inclusive development models
+for urban renewal are workable.
+M
+any cities in India accurately ignored fundamental public health
+mirr or Friedrich Engels’ issues inherited from colonial rule.
+description of urban centres in There is little evidence to show that
+nineteenth century England even policymakers assimilated the lessons
+today. “Streets that are generally fr om the Surat public health
+unpaved, rough, dirty, filled with disaster. State and municipal
+vegetable and animal refuse, without governments did not pursue reform
+sewers or gutters but supplied with in waste management, though civic
+foul, stagnant pools instead,” wrote conditions in Surat itself underwent
+Engels on the living conditions of the change in the plague aftermath.
+During the past decade, many cities
+working class in that country.
+pursued development agendas—often
+Urban Decay
+with the help of massive international
+The depths of urban decay in India loans—to project ‘modernisation’ at
+came to global notice during the the cost of basic civic reform.
+Ther e is thus a continuing
+pneumonic plague of 1994 in Surat; it
+epitomised the failure of governments challenge before the current mission
+in the post-Independence era and to enable and also compel local
+exposed development policies that gover nments to abide by the
+2019-20100
+HORNBILL
+provisions of the Municipal Solid
+It comes as no surprise therefore
+Waste Management Rules by which that pedestrians and bicycle riders,
+they are legally bound.
+who form 30 to 70 per cent of peak
+Post-liberalisation policies have hour traffic in most urban centres,
+tended to largely disregard other key also make up a large proportion of
+factors that affect the quality of life fatalities in road accidents. A paper
+in cities and towns: poverty, lack of prepared by the Transport Research
+sanitation, water shortages, gross and Injury Prevention Programme
+undersupply of affordable housing, (TRIPP) of the Indian Institute of
+and traffic chaos generated by Technology, Delhi, says pedestrian
+automobile dependence, in turn fatalities in Mumbai and Delhi were
+created by neglect of public transport. nearly 78 per cent and 53 per cent
+In the absence of a hygienic of the total, according to recent
+environment and safe water supply, data, compared to 13 per cent and
+chronic water-borne diseases such 12 per cent in Germany and the
+as cholera and other communicable United States.
+diseases continue to stalk the poor
+Such alarming death rates — and
+in the biggest cities.
+an equally high injury rate — should
+It must be sobering to the affluent persuade policymakers to revisit
+layers of the population that nearly their urban planning strategies and
+14 million Indian households correct the distortions. But many
+(forming 26 per cent of the total) in cities such as Chennai have actually
+the urban areas do not have a latrine done the reverse — reduced
+within the house, as per the Census footpaths and areas for pedestrian
+of India 2001; some 14 per cent have use to facilitate unrestricted use of
+only rudimentary ‘pit’ facilities. The motorised vehicles.
+number of households without a
+The practice in progressive world
+drainage connection stands at 11.8 cities has been different. Curitiba in
+million (representing 22.1 per cent Brazil, which has attracted global
+of households). Migration to cities attention for innovative urban plans
+continues and infrastructure to treat using low-cost technologies, has
+sewage is grossly inadequate to meet done everything that Indian
+the demand even where it exists.
+policymakers would dread to do.
+It is unlikely that the quality of Starting in the 1970s, this provincial
+the urban environment can be centre with the highest per capita
+dramatically improved therefore, if ownership of cars in Brazil (other
+such fundamental questions remain than the capital) at the time, banned
+unresolved.
+automobiles from many crowded
+Urban transport receives scant areas in favour of pedestrians, built
+attention from policymakers. Policy an internationally acknowledged bus
+distortions have led to rising system that reduced household
+automobile dependency, higher commuting expenditure to below the
+safety risks for road users, and land national average, and created new
+use plans that are based not on the housing areas that were provided
+needs of people, but primarily transport links in a planned manner.
+designed to facilitate use of private Some of the prestigious land
+motorised vehicles.
+development in the city, including a
+2019-20SUB-TITLING
+101
+new Opera House, came up in policies that, ironically, allow filling
+abandoned sites such as quarries. of existing wetlands by real estate
+The bus-way system cut riding lobbies, leading to flooding. The
+time by a third, Scientific American residents then demand expensive
+noted in a review in the mid-1990s, new storm water drains.
+Examples such as Curitiba show
+by providing for advance ticketing,
+specially-designed boarding areas that inclusive development models
+with wider doors for entry/exit and for urban renewal are workable. If
+only the state and local governments
+dedicated lanes for faster transit.
+In another low-cost initiative, can be persuaded to adopt a rights-
+Curitiba managed floods with a based approach to affordable
+dedication that Mumbai, Bangalore, housing, sanitation, water supply,
+and Chennai can only marvel at. The mobility and a clean environment,
+city created large artificial lakes in instead of a market-oriented model
+suitable places that filled up in the that lays excessive emphasis on
+monsoon, avoiding flooding of recovery of costs incurred by profit-
+residential areas. In the summer, oriented private sector service
+these lakes turned into parks to provision. Support from a
+progressive middle class and trade
+provide recreational spaces.
+State administrations and urban unions is equally critical to bring
+planning bodies in India follow about genuine urban renewal.
+G. ANANTHAKRISHNAN
+The Hindu, 13 December 2005
+Activity
+1. Notice the italicised sentence placed at the top of the article
+which tells us at a glance what the article is about.
+2. Divide the article into four sections based on the shifts in the
+sub-topics and give a suitable sub-heading for each section.
+One has been done for you in the article as an example.
+3. Look for pictures in newspapers and magazines that depict
+the urban civic problems discussed in the text. Cut them
+out and pin them to the text at appropriate places.
+2019-20102
+HORNBILL
+4. Essay-writing
+MOST of us find it difficult to begin writing. We can make this
+easier by thinking about the topic either through brainstorming,
+that is with several people in a group giving their ideas as they
+strike them, or by putting them down on a sheet of paper as
+they occur to us.
+For example, if the topic is ‘Hobbies’, we can draw a circle and
+write ‘hobbies’ in it:
+Then we can put down our thoughts as they come to us in a
+random manner as shown below.
+2019-20ESSAY-WRITING
+103
+Having done that we select the points and expand each into a
+sentence.
+1. Hobbies are free-time activities. Examples are stamp-
+collecting, painting etc.
+2. They are matters of personal choice, not forced.
+3. They are interesting and give pleasure.
+4. They refresh the mind by providing an opportunity to do
+different kinds of activities.
+5. They provide relief from monotony.
+6. They help us channelise our energy.
+7. They can also be useful activities and can provide pleasure
+to others. For example, reading out to visually impaired
+people, visiting art exhibitions, music concerts etc.
+8. Hobbies are educative and they widen our general
+knowledge.
+9. They help us develop our overall personality.
+10. They serve as a medium for the expression of our creativity.
+11. We meet interesting people through our common interests
+and develop friendships.
+We usually begin a topic with a definition or short description.
+We could begin thus:
+Hobbies are activities that we engage in, in our free time.
+We may be interested in needlework, drawing and
+painting or music. Other common hobbies are stamp-
+collecting, clay-modelling, solving crossword puzzles.
+Although hobbies also entail work they are taken upon
+through one’s own personal choice. They are not forced
+upon us. They are activities that we are really interested
+in and hence give us a great deal of pleasure.
+Hobbies make life interesting. They refresh our minds
+after a hard day’s work. We need to do something different
+in order to do our routine work effectively. Hobbies provide
+this variety.
+Hobbies relieve us from the monotony of daily life.
+They fill us with enthusiasm for work and keep our energy
+levels high. We will go to any extent to get the things that
+we require, to get the utmost joy from our hobbies.
+2019-20104
+HORNBILL
+Hobbies are also useful activities. Quite a few hobbies,
+like stamp-collecting, widen our general knowledge about
+various countries of the world. When we share common
+interests we even get into correspondence with people of
+other countries.
+This is how we write an essay.
+A composition on a particular subject consisting of more than
+one paragraph is an essay. The characteristics of a good
+essay are:
+Unity
+:
+Coherence :
+Relevance :
+Proportion:
+The essay should deal with the main subject, and
+all parts of it should be clearly linked with that
+subject.
+There should be a logical sequence of thought. This
+requires a logical relationship between ideas,
+sentences and paragraphs.
+Unimportant information should not be included.
+Giving more space to the important ideas.
+Read the following essay and the passage analysis that follows
+it carefully.
+The Importance of Games
+1. “The Battle of Waterloo was won on the playing fields of Eton.”
+These words have been attributed to the Duke of Wellington.
+Certainly one does not play games in order to win battles;
+neither does the curriculum include them for that reason.
+But the importance of games in life should not be
+underestimated, for without them it is harder for a person to
+be sound in body and mind.
+2. For one thing, if a person is to fulfil all the duties that society
+expects of him, it is important for him to keep healthy. He
+may be very intelligent, but that has little meaning if he cannot
+make use of his intelligence, because he is always suffering
+from bad health. In some ways, the human body is like a
+machine. If it is not made use of, it starts to work badly.
+People who are not fit grow weak and become more susceptible
+to disease. Any form of game is useful, provided it gives the
+body an opportunity to take regular physical exercise.
+2019-20ESSAY-WRITING
+105
+3.
+Secondly, playing — and therefore experiencing winning
+and losing — encourages the spirit of sportsmanship, thus
+enabling one to deal with life’s problems in a wise and natural
+manner. Games teach the truth embodied in the Olympic
+motto: ‘The important thing in playing is not the winning or
+the losing, but the participation’ — and, I may add, doing
+the best one can.
+4.
+We have to remember some other things about playing
+games, however. First, it is the physical exercise that is
+important for health, not the games themselves, and there
+are other ways of getting this. Is not India the home of yoga?
+It is also possible to be too interested in games. When we
+think of the Greek ideal expressed in the Latin phrase, ‘mens
+sana in corpore sano’ (a healthy mind in a healthy body), we
+should not forget that it is the mind which is mentioned
+first. And if we let games become the most important thing
+in our lives, we may be in danger of changing the Olympic
+motto to ‘the important thing is winning’.
+5.
+Nevertheless, in spite of these dangers, playing games can
+be a valuable activity, and if we take part in them wisely, we
+can gain great benefits.
+Passage Analysis
+l
+l
+The writer uses five paragraphs
+Each paragraph deals sequentially with a topic.
+– Paragraph 1 introduces the subject, and makes a general
+statement about the importance of games.
+– Paragraph 2 explains the benefits of playing games.
+– Paragraph 3 deals with the moral benefits.
+– Paragraph 4 deals with the disadvantages and dangers.
+– Paragraph 5 sums up the writer’s opinion, taking into
+account all he has said in paragraphs 2, 3 and 4, i.e. it
+forms the conclusion. The structure (or plan) of the essay
+is summed up in the following flow diagram.
+2019-20106
+HORNBILL
+Activity
+Here are a few topics for essay writing. Follow the steps listed
+above to write on these topics.
+1. Himalayan quake 2005.
+2. Those who can bear all can dare all.
+3. Fascinating facts about water.
+4. Public health in transition.
+5. Human population grows up.
+6. Success begins in the mind.
+7. Think before you shop.
+The trend of decline in the Child Sex Ratio (CSR)
+defined as the number of girls per 1000 boys between 0–6
+years of age, has remained unabated till today. To ensure
+survival, protection and empowerment of the girl child,
+the government has announced Beti Bachao, Beti Padhao
+scheme. This is being implemented through a national
+campaign. The objectives of this scheme are:
+•
+•
+•
+Prevention of gender-biased sex selection elimination.
+Ensuring survival and protection of the girl child.
+Ensuring education and participation of the girl child.
+Organise as essay writing activity in your class, the
+themes should be based on the objectives stated above. Mention
+how you can contribute to this programme, in the essay.
+2019-20107
+LETTER-WRITING
+5. Letter-writing
+LETTER-WRITING is an important channel of communication between
+people who are geographically distant from one another. In
+earlier times when the telephone and e-mail were not available,
+the only means of communication between people was through
+letters.
+Letter-writing is a skill that has to be developed. In general
+there are two types of letters: formal, that are written to convey
+official business and information and informal, which are
+personal letters to communicate with friends and family. Formal
+letters are sent out when we need to write to various public
+bodies or agencies for our requirements in civic life. For example,
+we might have to ask for a certificate or to inform a change in
+our address. A letter is usually one in a series of exchanges
+between two people or parties.
+Formal Letters
+Let us now examine some of the steps in writing formal letters.
+1.
+(i) Introducing oneself if it is the first time you are writing
+(ii) Referring to an earlier letter if you are responding to it.
+2. Stating the purpose of the letter
+3.(i) Stating action/information required from the addressee
+(ii) Explaining action taken/supplying information
+4.(i) Urging action to be taken
+(ii) Offering assistance in future
+This is the basic structure of a letter. It will have to be
+modified according to the purpose for which it is written and
+the person to whom it is addressed.
+2019-20108
+HORNBILL
+When you write a letter you should keep in mind the following points.
+1.
+2.
+3.
+4.
+5.
+6.
+Purpose
+Person to whom it is addressed
+Tone you should adopt
+Completeness of the message
+Action required
+Conciseness of expression
+We have so far considered the content of letters. A letter also has a
+typical format.
+1. Name and address of sender
+Companies have printed letterheads with the name of the
+company printed on them. A letterhead may also carry the
+name and designation of persons in responsible positions.
+2. Name and address of addressee
+3. Date
+4. Mode of address or salutation
+Salutation is the mode of addressing a person. We may have
+the following forms.
+(i) Dear Sir/Madam (when we are writing to a total stranger
+whom we do not know at all).
+(ii)Dear Mr/Ms/Dr/Professor + Surname as in: Dear Dr
+Sinha, (when it is a formal relationship with the
+addressee and the writer does not know him or her
+personally).
+(iii)Dear Sujata (when the writer knows the addressee
+personally and the two share a semi-formal relationship).
+5. Reference to previous correspondence, if any.
+Most official letters carry a subject line just above the
+salutation. This is for quick reference to the subject.
+6. Content of letter
+The content of the letter begins on the next line and is
+arranged in two or three paragraphs.
+7. Complimentary close and signature
+Letters usually end politely with the following phrases:
+Thank you, With regards, With best wishes, Hope to see
+2019-20109
+LETTER-WRITING
+you soon, Hope to receive an early reply etc. The
+complimentary close is followed by ‘Yours sincerely/ Yours
+truly’, and the writer’s signature in the next line.
+Given below is an example of the format of a formal letter.
+Ritu Patel
+Manager, Customer Services
+Vijayanagar Gas Company
+121, Ameerpet
+Hyderabad 500 016
+12 November 2005
+Mr Shagun Thomas
+801, Vijay Apartments
+Begumpet
+Hyderabad 500 016
+Sub: Your application No. F323 for a new gas connection
+Dear Mr Thomas,
+——————————————————————————————
+——————————————————————————————
+——————————————————————————————
+——————————————————————————————
+——————————————————————————————
+With regards,
+Yours sincerely,
+Ritu Patel
+Nowadays all the parts of a letter are aligned on the left. This
+style is called the Full-Block style.
+l
+l
+The date and signature are very important in letters.
+We do not use commas after every line in the address.
+2019-20110
+l
+l
+HORNBILL
+Do not begin your letters with hackneyed expressions like,
+‘With reference to your letter dated 10 January’. Instead,
+use personalised variations like, ‘I was glad to receive your
+letter of 10 January…’ or ‘We were happy to note from your
+letter that the goods have reached you safely…’
+Never end your letters with hanging participles like ‘Thanking
+you’ or ‘Awaiting your reply’. Instead write, ‘Thank you’ or
+‘We/I await/look forward to your reply’.
+Informal Letters
+Informal letters include personal letters. If it is a personal letter
+the format is flexible. We might just write the name of our city on
+top, followed by the date.
+Hyderabad
+12 November 2005
+Dear Sujata,
+——————————————————————————————
+——————————————————————————————
+——————————————————————————————
+——————————————————————————————
+——————————————————————————————
+——————————————————————————————
+Bye,
+Yours affectionately/With love/
+All the best/Take care etc.
+(Signature)
+2019-20111
+LETTER-WRITING
+The flexible format of the informal letter may also be used to
+seek information from concerned authorities. Given below is
+an example.
+179 NCERT Campus
+Sri Aurobindo Marg
+New Delhi 110 016
+9 September 2005
+The Manager
+Himachal Tourism
+Mall Road
+Shimla
+Dear Sir,
+We are planning to spend our vacation in Dharamsala,
+Himachal Pradesh during Dussehra and would like some
+information regarding availability of lodging in the area.
+We would like to have information about inexpensive
+hotels in and around Dharamsala. Could you please
+send me a city map and brochures about the activities
+and sights in the city?
+Thank you.
+Yours faithfully,
+(Suryadhan Kumar)
+Given below is the format of the informal letter.
+l
+l
+Your address (but not your name) usually goes in the top right-
+hand corner, but may go on the left too.
+The name and/or job title (if you know them) and the address
+of the person you are writing to goes on the left.
+2019-20112
+l
+l
+l
+HORNBILL
+To address someone whose name you do not know you
+can write: Dear Sir, Dear Madam, Dear Sirs, Dear Sir/Madam.
+To address someone by name, use their title and surname
+e.g. Dear Dr Balakrishnan.
+To end a letter, use ‘Yours sincerely’, if you have addressed
+the person by name; ‘Yours faithfully’, if you have begun
+the letter with ‘Dear Sir’ or ‘Madam’, etc.
+Job Application
+At some point of time each one of us will have to apply for a job.
+Job applications are usually written in response to
+advertisements.
+Let us take this sample advertisement from a daily newspaper,
+The Hindu dated 15 November 2005.
+Come…join the ADVENTURE
+Customer Support Executives
+Graduate/Diploma holders
+with/without
+experience
+possessing good Customer
+Service skills. Excellent spoken
+and written communication
+skills in English is a must.
+Send in your applications with
+your resume and passport
+size photograph to:
+WONDERLAND
+COMMUNICATIONS,
+SOUTH STREET, SALEM,
+TAMIL NADU
+Let us assume that you have a degree or a diploma and are
+applying for the job. We need to prepare a resume, which actually
+means a summary of particulars relating to your background,
+academic qualifications and experience, if any. Other terms used
+for ‘resume’ are ‘curriculum vitae’ and ‘biodata’.
+2019-20113
+LETTER-WRITING
+The general format of a resume or curriculum vitae is
+shown below.
+CURRICULUM VITAE
+Name:
+Address:
+Telephone Number:
+E-mail ID:
+Date of birth:
+Academic Qualifications :
+Examination
+Board/
+University
+Subjects
+Year
+Division
+S.S.C
+Diploma in…
+Degree in…
+Experience: (Begin from present
+employment)
+Skills:
+Languages known:
+Hobbies and Interests:
+Achievements:
+References: (names of people in positions
+like your school Prinicipal who
+can certify your character and
+conduct)
+2019-20114
+HORNBILL
+Now we need to send a covering letter along with the curriculum
+vitae. The following letter is an example.
+Your name and address
+Date
+The Manager
+Human Resource Division
+Wonderland Communications
+South Street, Salem
+Tamil Nadu
+Dear Sir,
+I would like to apply for the post of Customer Support
+Executive that you have advertised in The Hindu of 15
+November 2005.
+I have just completed my Diploma in Communication
+from the State Polytechnic. I was happy to note that you
+do not insist on experience.
+If selected, this would be my first job. I am a sincere,
+honest and hardworking person. I am friendly and
+outgoing and have good communication skills.
+I am enclosing my resume and look forward to meeting
+you in person.
+Regards,
+Yours truly,
+(Signature)
+Activities
+1. You have not received your Roll Number card for the Class
+XII examination. Write a letter to the Registrar, Examination
+Branch, CBSE asking for it.
+2019-20115
+LETTER-WRITING
+2. Write a letter to the President, Residents’ Welfare Association of
+your locality suggesting some measures that could be taken
+for solving the problem of water scarcity and conserving water.
+3. Write a letter to the editor of a newspaper expressing your
+views on the deteriorating law and order situation in your
+city.
+4. Write a letter to your friend narrating your experiences in a
+rescue operation.
+5. Write a letter to the Editor of a magazine describing a dance
+performance you have seen or an art gallery you have visited.
+2019-20116
+HORNBILL
+6. Creative Writing
+T HE teacher was explaining the lines in the beginning of
+Shakespeare’s play Macbeth. It was a description of the battle
+and the lines were:
+Like Valour’s minion, carved out his passage,
+Till he faced the slave;
+With ne’er shook hands, nor baded farewell to him.
+Till he unseam’d him from the nave to the chaps,…
+The teacher asked the students what the word ‘unseamed’
+meant. It was difficult. The teacher prodded them on. “What
+does ‘seam’ mean? Haven’t you ever come across the word?”
+One of the students blurted out “Cricket ball”.
+This is an example of how each of us reacts to words
+according to what our own experience has been.
+When we write about factual information, all of us write
+almost similarly. But when we write for pleasure each of us may
+write about the same event in different ways.
+One very important element in creative writing is imagination.
+This is reflected in
+l
+l
+l
+l
+l
+l
+our view or perspective
+choice of words
+the comparisons we make
+the images we use
+the tone we adopt
+novelty of ideas.
+Let us study the paragraph below.
+A town is like an animal. A town has a nervous system and
+a head and shoulders and feet. A town is a thing separate
+from all other towns, so that there are no towns alike. And a
+town has a whole emotion. How news travels through a town
+2019-20CREATIVE WRITING
+117
+is a mystery not easily to be solved. News seems to move faster
+than small boys can scramble and dart to tell it, faster than
+women can call it over the fences. (from an adapted version of
+Steinbeck’s The Pearl)
+The topic: A Town
+Analogy or comparison: to an animal
+Word choice: “has a whole emotion.”
+Comparisons: “faster than small boys can scramble and dart,
+faster than women….”
+We find the first element of imagination operating in the way the
+writer visualises the town. Then he extends the primary analogy.
+The tone he adopts is light humour, a little sarcastic.
+When we begin to write a story or poem we let our imagination
+free. We try to say things in a new way. This novelty is what
+makes our writing pleasurable to the reader.
+Sometimes sentence structures are also different from factual
+writing. Consider the following:
+They waited in their chairs until the pearls came in, and
+then they cackled and fought and shouted and threatened
+until they reached the lowest price the fisherman would
+stand. (from The Pearl).
+In a normal construction we will not use so many ‘ands’. But
+the action of the story is best reflected through this kind of
+chaining of actions through ‘ands’. It is appropriate to the
+movement of the action described.
+Let us look at another example:
+She dragged me after her into Miss Rachel’s sitting-room,
+which opened to her bedroom. At her bedroom door stood
+Miss Rachel, her face almost white as the white dressing-
+gown she wore.
+The author has used a simile: “white as the white dressing-
+gown she wore.”
+In fact, the whiteness of a human face is because of a strong
+emotion — fear or shock.
+But here comparing the whiteness to the dressing-gown she
+wore serves to exaggerate and intensify the emotion.
+2019-20118
+HORNBILL
+Exaggeration is one of the ways in which fact is distinguished
+from fiction.
+Now look at these lines from a well-known poem, ‘An Elegy
+Written in a Country Churchyard’ by Thomas Gray.
+Full many a gem of purest ray serene
+The dark unfathom’d caves of ocean bear
+Full many a flower is born to blush unseen
+And waste its fragrance in the desert air.
+The stanza carries a simple statement: many people with
+outstanding qualities live and die unnoticed by the world.
+To state this, the poet has used two strong images, ‘a gem’ and
+‘a flower’.
+He has used two contrasting places: the ocean, that is full of
+water and the desert with no water at all.
+Also notice the rhyming words: ‘serene’ and ‘unseen’, ‘bear’ and ‘air’.
+The first and third lines also begin with the same words —“full
+many a”. The lines are of equal length.
+All this together contribute to the literary quality of these lines.
+Activity I
+Put down the images that come to your mind immediately when
+you see the words in the box.
+cat
+cupboard
+wall
+pond
+bird
+Activity II
+Try to write four lines of poetry or four sentences of prose with
+one of these as the starting point.
+Activity III
+Write a short story beginning with this sentence:
+When the last of the guests left, I went back into the hall.…
+Activity IV
+Look for a story, a poem and a newspaper article on
+environment conservation and see how the style of each is
+different from the other.
+2019-20

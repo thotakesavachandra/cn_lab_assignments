@@ -1,0 +1,267 @@
+************************** ASSIGNMENT 5 **********************************
+
+21CS30030 - Kovvada Dhyana Vardhan
+21CS30056 - Thota Kesava Chandra
+
+**************************************************************************
+
+
+probability table
+------------------------------------------------------
+| Drop probability | Average number of transmissions |
+|------------------|---------------------------------|
+| 0.05             | 435/400 = 1.0875                |
+| 0.10             | 478/400 = 1.195                 |
+| 0.15             | 535/400 = 1.3375                |
+| 0.20             | 593/400 = 1.4825                |
+| 0.25             | 683/400 = 1.7075                |
+| 0.30             | 753/400 = 1.8825                |
+| 0.35             | 859/400 = 2.1475                |
+| 0.40             | 997/400 = 2.4925                |
+| 0.45             | 1087/400 = 2.7175               |
+| 0.50             | 1321/400 = 3.3025               |
+------------------------------------------------------
+
+
+
+------------------------------------------------------
+| Drop probability | Average number of transmissions |
+|------------------|---------------------------------|
+| 0.05             | 435/400 = 1.0875                |
+| 0.10             | 478/400 = 1.195                 |
+| 0.15             | 535/400 = 1.3375                |
+| 0.20             | 593/400 = 1.4825                |
+| 0.25             | 683/400 = 1.7075                |
+| 0.30             | 753/400 = 1.8825                |
+| 0.35             | 859/400 = 2.1475                |
+| 0.40             | 997/400 = 2.4925                |
+| 0.45             | 1087/400 = 2.7175               |
+| 0.50             | 1321/400 = 3.3025               |
+------------------------------------------------------
+
+
+
+
+
+
+Testing: 
+    For testing for 2 users:
+        - Run the init process {make run}
+        - In another terminal run the user1 {make runuser1}
+        - In another terminal run the user2 {make runuser2}
+
+        - First user1 sends 20 messages to user2 of type 'A: num'. The data in the message contains the message number for simplicity.
+        - Then user2 sends 20 messages to user1 of type 'B: num'.
+        - As both m_sendto and m_recvfrom are non_blocking sleep is used when they fail. 
+        - As success from m_sendto does not guarantee that the message is sent to the other end. m_close cannot be called until both user programs recieve everything and ask for exit.
+        - This behavior follows the design of the mtp protocol.
+
+    For testing for 4 users. 
+        - users are named as u0 u1 u2 u3.
+        - Each user program uses 2 sockets one for sending and one for receiving.
+        - All users use the same source code u0.c with different compile time argument specifying their ID.
+        - u0 sends A.txt to u1.
+        - u1 sends B.txt to u2.
+        - u2 sends C.txt to u3.
+        - u3 sends D.txt to u0.
+        - As the end of transmission is unclear, a transfer of 100 messages is implemented.
+        - Received messages are stored of each user with their name in output_files directory.
+        - 200 messages size of data in output_files will match with the input files.
+        - All the users simultaneously send and receive messages.
+        - Run the init process {make run}
+        - In another terminal run the user0 {make runu0}
+        - In another terminal run the user1 {make runu1}
+        - In another terminal run the user2 {make runu2}
+        - In another terminal run the user3 {make runu3}
+
+
+
+
+
+Structures Used:
+
+    1) struct SOCK_INFO;
+        - This structure is used to store the information of the socket.
+        - It contains the following fields:
+            - sockid: The socket id of the socket.
+            - ip: The ip address of the socket.
+            - port: The port number of the socket.
+            - error_no: The error number of the socket.
+        - An Object of this structure is used as message storage to send request to init process from the user and to send response to the user from the init process.
+        - The object is named as passer and is initialized as a shared memory object in the init process.
+        - port and ip are used for bind function;
+        struct SOCK_INFO{
+            int sockid;    
+            char ip[20];
+            int port;
+            int error_no;
+        };
+
+    2) struct message;
+        - This structure is used to store the message to be sent from the sender to the receiver.
+        - It contains the following fields:
+            - msg: The actual message the user wants to send or expects to receive.
+            - num: The message number.
+            - ack: For reciver it indicates whether the message is received or not.
+                   For sender it indicates whether the message is acknowledged by the receiver or not.
+        struct message{
+            char msg[MESSAGE_SIZE];
+            int num;
+            int ack;    
+        };
+
+    3) struct mtp_sock;
+        - This structure is used to store the information of the socket.
+        - It contains the following fields:
+            - state: The state of the socket {0:FREE, 1:ALLOCATED, 2:BOUND}
+            - pid: The process id of the socket.
+            - sockid: The udp_socket id of the mtp_sock.
+            - remoteaddr: The remote address that the socket is connected to.
+            - myaddr: The address of the socket.
+            - send_buff: The send buffer of the socket.
+            - recv_buff: The receive buffer of the socket.
+            - s_write: The write pointer of the send buffer. Points to the next empty slot in the send buffer.
+            - s_start: The start pointer of the sender Window.
+            - s_end: The end pointer of the sender Window
+            - r_read: The read pointer of the receive buffer. Points to the next message to be read from the receive buffer.
+            - r_start: The start pointer of the receiver Window.
+            - r_end: The end pointer of the receiver Window.
+
+        struct mtp_sock{
+            int state;
+            int pid;
+            int sockid;
+            struct sockaddr_in remoteaddr,myaddr;
+            struct message send_buff[SEND_BUFF_SIZE];
+            struct message recv_buff[RECV_BUFF_SIZE];
+            int s_write;
+            int s_start;
+            int s_end;
+            int r_read;
+            int r_start;
+            int r_end;
+        };
+
+Functions:
+    1) m_socket:
+        - This function is used to create a socket.
+        - It takes the following arguments:
+            - domain: The domain of the socket.
+            - type: The type of the socket.
+            - protocol: The protocol of the socket.
+        - It returns the mtp socket id of the socket created.
+        - It initializes the send buffer and receive buffer of the socket.
+        - It initializes the sender window and receiver window of the socket.
+        - It initializes the state of the socket as ALLOCATED.
+        - It initializes the pid of the socket as the process id of the process that created the socket.
+        - It initializes the write pointer of the send buffer as 1.
+        - It initializes the read pointer of the receive buffer as 1.
+        - It initializes the start and end pointers of the sender window as 1,5.
+        - It initializes the start and end pointers of the receiver window as 1,5.
+        - It returns the socket id of the socket created.
+
+    2) m_bind:
+        - This function is used to bind the socket to the address.
+        - It takes the following arguments:
+            - sockid: The mtp socket id of the socket.
+            - addr: The address to bind the socket to.
+        - It initializes the myaddr field of the socket with the address passed.
+        - It initializes the state of the socket as BOUND.
+        - It returns 0 on success and -1 on failure.
+
+    3) m_sendto:
+        - This function is used to send the message to the remote address.
+        - It takes the following arguments:
+            - sockid: The mtp socket id of the socket.
+            - msg: The message to be sent.
+            - len: The length of the message.
+            - flags: The flags to be used.
+            - to: The remote address to send the message to.
+            - tolen: The length of the remote address.
+        - It sends the message to the remote address if the remote address is same as the remote_address the socket is bound to.
+        - It fails if it is not the same remote address.
+        - It returns the number of bytes sent.
+
+    4) m_recvfrom:
+        - This function is used to receive the next inorder message from the remote address.
+        - It takes the following arguments:
+            - sockid: The mtp socket id of the socket.
+            - msg: The message to be received.
+            - len: The length of the message.
+            - flags: The flags to be used.
+            - from: The remote address to receive the message from.
+            - fromlen: The length of the remote address.
+        - It receives the message from the remote address if the remote address is same as the remote_address the socket is bound to.
+        - It fails if it is not the same remote address.
+        - It returns the number of bytes received.
+
+    5) m_close:
+        - This function is used to close the socket.
+        - It takes the following arguments:
+            - sockid: The mtp socket id of the socket.
+        - It frees the socket and sets the state of the socket as FREE.
+        - It calls the init process to free the underlying udp socket.
+        - It returns 0 on success and -1 on failure.
+    
+    6) wait_sem:
+        - This function is used to wait on the semaphore.
+        - It takes the following arguments:
+            - sem: The semaphore to wait on.
+        - It returns when the wait is successful.
+    
+    7) signal_sem:
+        - This function is used to signal the semaphore.
+        - It takes the following arguments:
+            - sem: The semaphore to signal.
+        - It signals the semaphore.
+
+    8) attachSharedMemory:
+        - This function is used to attach the shared memory to the reference arguments passed.
+        - It takes the following arguments:
+            - SM: The socket_table
+            - passer: sock_info object
+            - semId: The semaphore id. {0:MUTEX 1:SEM1, 2:SEM2}
+    
+    9) detachSharedMemory:
+        - This function is used to detach the shared memory from the reference arguments passed.
+    
+    10) passer_reset:
+        - This function is used to reset the passer object.
+    
+    11) addr_cmp:
+        - This function is used to compare the two sockaddr_in structures.
+        - It takes the following arguments:
+            - a: The first address.
+            - b: The second address.
+        - It returns 0 if the addresses are same and -1 otherwise.
+
+    ----- initmsocket.c--------
+
+    12) getHeader:
+        - This function is used to create a mtp header.
+        - It takes the following arguments:
+            - type: The type of the message {0:DATA, 1:ACK}
+            - seq: The sequence number.
+            - recv_window: The size of the receiver window.
+        - It returns the mtp header. {bitwise encoding into a byte}
+    
+    13) extract:
+        - This function is used to extract the details from the mtp header and store them in referenced arguments.
+        - It takes the following arguments:
+            - header: The mtp header.
+            - referenes for type, seq, recv_window.
+    
+    14) createSharedMemory:
+        - This function is used to create and initialise all the shared memory for the mtp system to work.
+        - It takes no arguments.
+    
+    15) deleteSharedMemory:
+        - This function is used to free up all the shared memory used by the mtp system.
+        - It takes no arguments.
+    
+    16) dropMessage:
+        - This function is used to simulate unreliable network by dropping the message on receiver side.
+        - It takes the following arguments:
+            - drop_prob: The probability of dropping the message.
+        - It returns 1 if the message is dropped and 0 otherwise.
+    
